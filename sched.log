@@ -1,0 +1,2544 @@
+12/02/2021 01:32:13 Scheduler has been started by Dsmcad.
+12/02/2021 01:32:13 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 01:32:13 Querying server for next scheduled event.
+12/02/2021 01:32:13 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 01:32:13 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 01:32:13   Server Version 8, Release 1, Level 12.100
+12/02/2021 01:32:13   Server date/time: 12/02/2021 01:32:13  Last access: 12/01/2021 21:32:13
+
+12/02/2021 01:32:13 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 01:32:13 --- SCHEDULEREC QUERY END
+12/02/2021 01:32:13 Next operation scheduled:
+12/02/2021 01:32:13 ------------------------------------------------------------
+12/02/2021 01:32:13 Schedule Name:         DAILY-2100
+12/02/2021 01:32:13 Action:                Incremental
+12/02/2021 01:32:13 Objects:
+12/02/2021 01:32:13 Options:               -quiet
+12/02/2021 01:32:13 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 01:32:13 ------------------------------------------------------------
+12/02/2021 01:32:13 Scheduler has been stopped.
+
+12/02/2021 05:32:13 Scheduler has been started by Dsmcad.
+12/02/2021 05:32:13 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 05:32:13 Querying server for next scheduled event.
+12/02/2021 05:32:13 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 05:32:14 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 05:32:14   Server Version 8, Release 1, Level 12.100
+12/02/2021 05:32:14   Server date/time: 12/02/2021 05:32:14  Last access: 12/02/2021 01:32:13
+
+12/02/2021 05:32:14 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 05:32:14 --- SCHEDULEREC QUERY END
+12/02/2021 05:32:14 Next operation scheduled:
+12/02/2021 05:32:14 ------------------------------------------------------------
+12/02/2021 05:32:14 Schedule Name:         DAILY-2100
+12/02/2021 05:32:14 Action:                Incremental
+12/02/2021 05:32:14 Objects:
+12/02/2021 05:32:14 Options:               -quiet
+12/02/2021 05:32:14 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 05:32:14 ------------------------------------------------------------
+12/02/2021 05:32:14 Scheduler has been stopped.
+
+12/02/2021 09:32:14 Scheduler has been started by Dsmcad.
+12/02/2021 09:32:14 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 09:32:14 Querying server for next scheduled event.
+12/02/2021 09:32:14 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 09:32:15 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 09:32:15   Server Version 8, Release 1, Level 12.100
+12/02/2021 09:32:15   Server date/time: 12/02/2021 09:32:15  Last access: 12/02/2021 05:32:14
+12/02/2021 09:32:15 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 09:32:15 --- SCHEDULEREC QUERY END
+12/02/2021 09:32:15 Next operation scheduled:
+12/02/2021 09:32:15 ------------------------------------------------------------
+12/02/2021 09:32:15 Schedule Name:         DAILY-2100
+12/02/2021 09:32:15 Action:                Incremental
+12/02/2021 09:32:15 Objects:
+12/02/2021 09:32:15 Options:               -quiet
+12/02/2021 09:32:15 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 09:32:15 ------------------------------------------------------------
+12/02/2021 09:32:15 Scheduler has been stopped.
+
+12/02/2021 13:32:15 Scheduler has been started by Dsmcad.
+12/02/2021 13:32:15 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 13:32:15 Querying server for next scheduled event.
+12/02/2021 13:32:15 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 13:32:16 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 13:32:16   Server Version 8, Release 1, Level 12.100
+12/02/2021 13:32:16   Server date/time: 12/02/2021 13:32:16  Last access: 12/02/2021 09:32:15
+
+12/02/2021 13:32:16 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 13:32:16 --- SCHEDULEREC QUERY END
+12/02/2021 13:32:16 Next operation scheduled:
+12/02/2021 13:32:16 ------------------------------------------------------------
+12/02/2021 13:32:16 Schedule Name:         DAILY-2100
+12/02/2021 13:32:16 Action:                Incremental
+12/02/2021 13:32:16 Objects:
+12/02/2021 13:32:16 Options:               -quiet
+12/02/2021 13:32:16 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 13:32:16 ------------------------------------------------------------
+12/02/2021 13:32:16 Scheduler has been stopped.
+
+12/02/2021 17:32:16 Scheduler has been started by Dsmcad.
+12/02/2021 17:32:16 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 17:32:16 Querying server for next scheduled event.
+12/02/2021 17:32:16 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 17:32:17 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 17:32:17   Server Version 8, Release 1, Level 12.100
+12/02/2021 17:32:17   Server date/time: 12/02/2021 17:32:17  Last access: 12/02/2021 13:32:16
+
+12/02/2021 17:32:17 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 17:32:17 --- SCHEDULEREC QUERY END
+12/02/2021 17:32:17 Next operation scheduled:
+12/02/2021 17:32:17 ------------------------------------------------------------
+12/02/2021 17:32:17 Schedule Name:         DAILY-2100
+12/02/2021 17:32:17 Action:                Incremental
+12/02/2021 17:32:17 Objects:
+12/02/2021 17:32:17 Options:               -quiet
+12/02/2021 17:32:17 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 17:32:17 ------------------------------------------------------------
+12/02/2021 17:32:17 Scheduler has been stopped.
+
+12/02/2021 21:13:17 Scheduler has been started by Dsmcad.
+12/02/2021 21:13:17 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 21:13:17 Querying server for next scheduled event.
+12/02/2021 21:13:17 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 21:13:18 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 21:13:18   Server Version 8, Release 1, Level 12.100
+12/02/2021 21:13:18   Server date/time: 12/02/2021 21:13:17  Last access: 12/02/2021 17:32:17
+
+12/02/2021 21:13:18 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 21:13:18 --- SCHEDULEREC QUERY END
+12/02/2021 21:13:18 Next operation scheduled:
+12/02/2021 21:13:18 ------------------------------------------------------------
+12/02/2021 21:13:18 Schedule Name:         DAILY-2100
+12/02/2021 21:13:18 Action:                Incremental
+12/02/2021 21:13:18 Objects:
+12/02/2021 21:13:18 Options:               -quiet
+12/02/2021 21:13:18 Server Window Start:   21:00:00 on 12/02/2021
+12/02/2021 21:13:18 ------------------------------------------------------------
+12/02/2021 21:13:18
+Executing scheduled command now.
+12/02/2021 21:13:18 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/02/2021 21:00:00
+12/02/2021 21:13:18 Incremental backup of volume '/'
+12/02/2021 21:13:18 Incremental backup of volume '/var'
+12/02/2021 21:13:18 Incremental backup of volume '/local'
+12/02/2021 21:13:18 Incremental backup of volume '/db/redis'
+12/02/2021 21:13:18 Incremental backup of volume '/var/log'
+12/02/2021 21:13:18 Incremental backup of volume '/home'
+12/02/2021 21:13:18 Incremental backup of volume '/opt'
+12/02/2021 21:13:18 Incremental backup of volume '/boot'
+12/02/2021 21:13:19 Successful incremental backup of '/boot'
+
+12/02/2021 21:13:23 Successful incremental backup of '/'
+
+12/02/2021 21:13:23 Successful incremental backup of '/var'
+
+12/02/2021 21:13:23 Successful incremental backup of '/local'
+
+12/02/2021 21:13:24 Successful incremental backup of '/db/redis'
+
+12/02/2021 21:13:30 Successful incremental backup of '/home'
+
+12/02/2021 21:13:30 Successful incremental backup of '/opt'
+
+12/02/2021 21:13:36 Successful incremental backup of '/var/log'
+
+12/02/2021 21:13:36 --- SCHEDULEREC STATUS BEGIN
+12/02/2021 21:13:36 Total number of objects inspected:      100,382
+12/02/2021 21:13:36 Total number of objects backed up:          158
+12/02/2021 21:13:36 Total number of objects updated:              0
+12/02/2021 21:13:36 Total number of objects rebound:              0
+12/02/2021 21:13:36 Total number of objects deleted:              0
+12/02/2021 21:13:36 Total number of objects expired:              1
+12/02/2021 21:13:36 Total number of objects failed:               0
+12/02/2021 21:13:36 Total number of objects encrypted:            0
+12/02/2021 21:13:36 Total number of objects grew:                 0
+12/02/2021 21:13:36 Total number of retries:                     14
+12/02/2021 21:13:36 Total number of bytes inspected:           3.90 GB
+12/02/2021 21:13:36 Total number of bytes transferred:         1.03 GB
+12/02/2021 21:13:36 Data transfer time:                       13.27 sec
+12/02/2021 21:13:36 Network data transfer rate:           81,100.46 KB/sec
+12/02/2021 21:13:36 Aggregate data transfer rate:         58,989.12 KB/sec
+12/02/2021 21:13:36 Objects compressed by:                        0%
+12/02/2021 21:13:36 Total data reduction ratio:               73.69%
+12/02/2021 21:13:36 Elapsed processing time:               00:00:18
+12/02/2021 21:13:36 --- SCHEDULEREC STATUS END
+12/02/2021 21:13:36 --- SCHEDULEREC OBJECT END DAILY-2100 12/02/2021 21:00:00
+12/02/2021 21:13:36 Scheduled event 'DAILY-2100' completed successfully.
+12/02/2021 21:13:36 Sending results for scheduled event 'DAILY-2100'.
+12/02/2021 21:13:36 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/02/2021 21:13:36 ANS1483I Schedule log pruning started.
+12/02/2021 21:13:36 ANS1484I Schedule log pruning finished successfully.
+12/02/2021 21:13:36 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/02/2021 21:13:36 Querying server for next scheduled event.
+12/02/2021 21:13:36 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/02/2021 21:13:36 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/02/2021 21:13:36   Server Version 8, Release 1, Level 12.100
+12/02/2021 21:13:36   Server date/time: 12/02/2021 21:13:36  Last access: 12/02/2021 21:13:28
+
+12/02/2021 21:13:36 --- SCHEDULEREC QUERY BEGIN
+12/02/2021 21:13:36 --- SCHEDULEREC QUERY END
+12/02/2021 21:13:36 Next operation scheduled:
+12/02/2021 21:13:36 ------------------------------------------------------------
+12/02/2021 21:13:36 Schedule Name:         DAILY-2100
+12/02/2021 21:13:36 Action:                Incremental
+12/02/2021 21:13:36 Objects:
+12/02/2021 21:13:36 Options:               -quiet
+12/02/2021 21:13:36 Server Window Start:   21:00:00 on 12/03/2021
+12/02/2021 21:13:36 ------------------------------------------------------------
+12/02/2021 21:13:36 Scheduler has been stopped.
+12/03/2021 01:13:36 Scheduler has been started by Dsmcad.
+12/03/2021 01:13:36 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 01:13:36 Querying server for next scheduled event.
+12/03/2021 01:13:36 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 01:13:37 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 01:13:37   Server Version 8, Release 1, Level 12.100
+12/03/2021 01:13:37   Server date/time: 12/03/2021 01:13:36  Last access: 12/02/2021 21:13:36
+
+12/03/2021 01:13:37 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 01:13:37 --- SCHEDULEREC QUERY END
+12/03/2021 01:13:37 Next operation scheduled:
+12/03/2021 01:13:37 ------------------------------------------------------------
+12/03/2021 01:13:37 Schedule Name:         DAILY-2100
+12/03/2021 01:13:37 Action:                Incremental
+12/03/2021 01:13:37 Objects:
+12/03/2021 01:13:37 Options:               -quiet
+12/03/2021 01:13:37 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 01:13:37 ------------------------------------------------------------
+12/03/2021 01:13:37 Scheduler has been stopped.
+
+12/03/2021 05:13:37 Scheduler has been started by Dsmcad.
+12/03/2021 05:13:37 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 05:13:37 Querying server for next scheduled event.
+12/03/2021 05:13:37 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 05:13:38 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 05:13:38   Server Version 8, Release 1, Level 12.100
+12/03/2021 05:13:38   Server date/time: 12/03/2021 05:13:37  Last access: 12/03/2021 01:13:37
+
+12/03/2021 05:13:38 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 05:13:38 --- SCHEDULEREC QUERY END
+12/03/2021 05:13:38 Next operation scheduled:
+12/03/2021 05:13:38 ------------------------------------------------------------
+12/03/2021 05:13:38 Schedule Name:         DAILY-2100
+12/03/2021 05:13:38 Action:                Incremental
+12/03/2021 05:13:38 Objects:
+12/03/2021 05:13:38 Options:               -quiet
+12/03/2021 05:13:38 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 05:13:38 ------------------------------------------------------------
+12/03/2021 05:13:38 Scheduler has been stopped.
+
+12/03/2021 09:13:38 Scheduler has been started by Dsmcad.
+12/03/2021 09:13:38 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 09:13:38 Querying server for next scheduled event.
+12/03/2021 09:13:38 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 09:13:39 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 09:13:39   Server Version 8, Release 1, Level 12.100
+12/03/2021 09:13:39   Server date/time: 12/03/2021 09:13:39  Last access: 12/03/2021 05:13:38
+
+12/03/2021 09:13:39 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 09:13:39 --- SCHEDULEREC QUERY END
+12/03/2021 09:13:39 Next operation scheduled:
+12/03/2021 09:13:39 ------------------------------------------------------------
+12/03/2021 09:13:39 Schedule Name:         DAILY-2100
+12/03/2021 09:13:39 Action:                Incremental
+12/03/2021 09:13:39 Objects:
+12/03/2021 09:13:39 Options:               -quiet
+12/03/2021 09:13:39 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 09:13:39 ------------------------------------------------------------
+12/03/2021 09:13:39 Scheduler has been stopped.
+
+12/03/2021 13:13:39 Scheduler has been started by Dsmcad.
+12/03/2021 13:13:39 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 13:13:39 Querying server for next scheduled event.
+12/03/2021 13:13:39 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 13:13:40 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 13:13:40   Server Version 8, Release 1, Level 12.100
+12/03/2021 13:13:40   Server date/time: 12/03/2021 13:13:40  Last access: 12/03/2021 09:13:39
+
+12/03/2021 13:13:40 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 13:13:40 --- SCHEDULEREC QUERY END
+12/03/2021 13:13:40 Next operation scheduled:
+12/03/2021 13:13:40 ------------------------------------------------------------
+12/03/2021 13:13:40 Schedule Name:         DAILY-2100
+12/03/2021 13:13:40 Action:                Incremental
+12/03/2021 13:13:40 Objects:
+12/03/2021 13:13:40 Options:               -quiet
+12/03/2021 13:13:40 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 13:13:40 ------------------------------------------------------------
+12/03/2021 13:13:40 Scheduler has been stopped.
+
+12/03/2021 17:13:40 Scheduler has been started by Dsmcad.
+12/03/2021 17:13:40 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 17:13:40 Querying server for next scheduled event.
+12/03/2021 17:13:40 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 17:13:41 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 17:13:41   Server Version 8, Release 1, Level 12.100
+12/03/2021 17:13:41   Server date/time: 12/03/2021 17:13:41  Last access: 12/03/2021 13:13:40
+
+12/03/2021 17:13:41 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 17:13:41 --- SCHEDULEREC QUERY END
+12/03/2021 17:13:41 Next operation scheduled:
+12/03/2021 17:13:41 ------------------------------------------------------------
+12/03/2021 17:13:41 Schedule Name:         DAILY-2100
+12/03/2021 17:13:41 Action:                Incremental
+12/03/2021 17:13:41 Objects:
+12/03/2021 17:13:41 Options:               -quiet
+12/03/2021 17:13:41 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 17:13:41 ------------------------------------------------------------
+12/03/2021 17:13:41 Scheduler has been stopped.
+
+12/03/2021 21:13:41 Scheduler has been started by Dsmcad.
+12/03/2021 21:13:41 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 21:13:41 Querying server for next scheduled event.
+12/03/2021 21:13:41 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 21:13:41 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 21:13:41   Server Version 8, Release 1, Level 12.100
+12/03/2021 21:13:41   Server date/time: 12/03/2021 21:13:41  Last access: 12/03/2021 17:13:41
+
+12/03/2021 21:13:41 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 21:13:41 --- SCHEDULEREC QUERY END
+12/03/2021 21:13:41 Next operation scheduled:
+12/03/2021 21:13:41 ------------------------------------------------------------
+12/03/2021 21:13:41 Schedule Name:         DAILY-2100
+12/03/2021 21:13:41 Action:                Incremental
+12/03/2021 21:13:41 Objects:
+12/03/2021 21:13:41 Options:               -quiet
+12/03/2021 21:13:41 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 21:13:41 ------------------------------------------------------------
+12/03/2021 21:13:41 Scheduler has been stopped.
+
+12/03/2021 21:24:41 Scheduler has been started by Dsmcad.
+12/03/2021 21:24:41 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 21:24:41 Querying server for next scheduled event.
+12/03/2021 21:24:41 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 21:24:41 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 21:24:41   Server Version 8, Release 1, Level 12.100
+12/03/2021 21:24:41   Server date/time: 12/03/2021 21:24:41  Last access: 12/03/2021 21:13:41
+
+12/03/2021 21:24:41 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 21:24:41 --- SCHEDULEREC QUERY END
+12/03/2021 21:24:41 Next operation scheduled:
+12/03/2021 21:24:41 ------------------------------------------------------------
+12/03/2021 21:24:41 Schedule Name:         DAILY-2100
+12/03/2021 21:24:41 Action:                Incremental
+12/03/2021 21:24:41 Objects:
+12/03/2021 21:24:41 Options:               -quiet
+12/03/2021 21:24:41 Server Window Start:   21:00:00 on 12/03/2021
+12/03/2021 21:24:41 ------------------------------------------------------------
+12/03/2021 21:24:41
+Executing scheduled command now.
+12/03/2021 21:24:41 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/03/2021 21:00:00
+12/03/2021 21:24:42 Incremental backup of volume '/'
+12/03/2021 21:24:42 Incremental backup of volume '/var'
+12/03/2021 21:24:42 Incremental backup of volume '/local'
+12/03/2021 21:24:42 Incremental backup of volume '/db/redis'
+12/03/2021 21:24:42 Incremental backup of volume '/var/log'
+12/03/2021 21:24:42 Incremental backup of volume '/home'
+12/03/2021 21:24:42 Incremental backup of volume '/opt'
+12/03/2021 21:24:42 Incremental backup of volume '/boot'
+12/03/2021 21:24:43 Successful incremental backup of '/boot'
+
+12/03/2021 21:24:46 Successful incremental backup of '/'
+
+12/03/2021 21:24:47 Successful incremental backup of '/var'
+
+12/03/2021 21:24:47 Successful incremental backup of '/local'
+
+12/03/2021 21:24:48 Successful incremental backup of '/db/redis'
+
+12/03/2021 21:24:52 Successful incremental backup of '/home'
+
+12/03/2021 21:24:52 Successful incremental backup of '/opt'
+
+12/03/2021 21:25:00 Successful incremental backup of '/var/log'
+
+12/03/2021 21:25:00 --- SCHEDULEREC STATUS BEGIN
+12/03/2021 21:25:00 Total number of objects inspected:      100,399
+12/03/2021 21:25:00 Total number of objects backed up:          125
+12/03/2021 21:25:00 Total number of objects updated:              0
+12/03/2021 21:25:00 Total number of objects rebound:              0
+12/03/2021 21:25:00 Total number of objects deleted:              0
+12/03/2021 21:25:00 Total number of objects expired:              0
+12/03/2021 21:25:00 Total number of objects failed:               0
+12/03/2021 21:25:00 Total number of objects encrypted:            0
+12/03/2021 21:25:00 Total number of objects grew:                 0
+12/03/2021 21:25:00 Total number of retries:                     12
+12/03/2021 21:25:00 Total number of bytes inspected:           3.90 GB
+12/03/2021 21:25:00 Total number of bytes transferred:     1,023.94 MB
+12/03/2021 21:25:00 Data transfer time:                       13.50 sec
+12/03/2021 21:25:00 Network data transfer rate:           77,634.76 KB/sec
+12/03/2021 21:25:00 Aggregate data transfer rate:         57,466.67 KB/sec
+12/03/2021 21:25:00 Objects compressed by:                        0%
+12/03/2021 21:25:00 Total data reduction ratio:               74.38%
+12/03/2021 21:25:00 Elapsed processing time:               00:00:18
+12/03/2021 21:25:00 --- SCHEDULEREC STATUS END
+12/03/2021 21:25:00 --- SCHEDULEREC OBJECT END DAILY-2100 12/03/2021 21:00:00
+12/03/2021 21:25:00 Scheduled event 'DAILY-2100' completed successfully.
+12/03/2021 21:25:00 Sending results for scheduled event 'DAILY-2100'.
+12/03/2021 21:25:00 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/03/2021 21:25:00 ANS1483I Schedule log pruning started.
+12/03/2021 21:25:00 ANS1484I Schedule log pruning finished successfully.
+12/03/2021 21:25:00 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/03/2021 21:25:00 Querying server for next scheduled event.
+12/03/2021 21:25:00 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/03/2021 21:25:00 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/03/2021 21:25:00   Server Version 8, Release 1, Level 12.100
+12/03/2021 21:25:00   Server date/time: 12/03/2021 21:25:00  Last access: 12/03/2021 21:24:50
+
+12/03/2021 21:25:00 --- SCHEDULEREC QUERY BEGIN
+12/03/2021 21:25:00 --- SCHEDULEREC QUERY END
+12/03/2021 21:25:00 Next operation scheduled:
+12/03/2021 21:25:00 ------------------------------------------------------------
+12/03/2021 21:25:00 Schedule Name:         DAILY-2100
+12/03/2021 21:25:00 Action:                Incremental
+12/03/2021 21:25:00 Objects:
+12/03/2021 21:25:00 Options:               -quiet
+12/03/2021 21:25:00 Server Window Start:   21:00:00 on 12/04/2021
+12/03/2021 21:25:00 ------------------------------------------------------------
+12/03/2021 21:25:00 Scheduler has been stopped.
+
+12/04/2021 01:25:00 Scheduler has been started by Dsmcad.
+12/04/2021 01:25:00 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 01:25:00 Querying server for next scheduled event.
+12/04/2021 01:25:00 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 01:25:01 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 01:25:01   Server Version 8, Release 1, Level 12.100
+12/04/2021 01:25:01   Server date/time: 12/04/2021 01:25:01  Last access: 12/03/2021 21:25:00
+
+12/04/2021 01:25:01 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 01:25:01 --- SCHEDULEREC QUERY END
+12/04/2021 01:25:01 Next operation scheduled:
+12/04/2021 01:25:01 ------------------------------------------------------------
+12/04/2021 01:25:01 Schedule Name:         DAILY-2100
+12/04/2021 01:25:01 Action:                Incremental
+12/04/2021 01:25:01 Objects:
+12/04/2021 01:25:01 Options:               -quiet
+12/04/2021 01:25:01 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 01:25:01 ------------------------------------------------------------
+12/04/2021 01:25:01 Scheduler has been stopped.
+
+12/04/2021 05:25:01 Scheduler has been started by Dsmcad.
+12/04/2021 05:25:01 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 05:25:01 Querying server for next scheduled event.
+12/04/2021 05:25:01 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 05:25:02 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 05:25:02   Server Version 8, Release 1, Level 12.100
+12/04/2021 05:25:02   Server date/time: 12/04/2021 05:25:02  Last access: 12/04/2021 01:25:01
+
+12/04/2021 05:25:02 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 05:25:02 --- SCHEDULEREC QUERY END
+12/04/2021 05:25:02 Next operation scheduled:
+12/04/2021 05:25:02 ------------------------------------------------------------
+12/04/2021 05:25:02 Schedule Name:         DAILY-2100
+12/04/2021 05:25:02 Action:                Incremental
+12/04/2021 05:25:02 Objects:
+12/04/2021 05:25:02 Options:               -quiet
+12/04/2021 05:25:02 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 05:25:02 ------------------------------------------------------------
+12/04/2021 05:25:02 Scheduler has been stopped.
+
+12/04/2021 09:25:02 Scheduler has been started by Dsmcad.
+12/04/2021 09:25:02 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 09:25:02 Querying server for next scheduled event.
+12/04/2021 09:25:02 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 09:25:03 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 09:25:03   Server Version 8, Release 1, Level 12.100
+12/04/2021 09:25:03   Server date/time: 12/04/2021 09:25:03  Last access: 12/04/2021 05:25:02
+
+12/04/2021 09:25:03 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 09:25:03 --- SCHEDULEREC QUERY END
+12/04/2021 09:25:03 Next operation scheduled:
+12/04/2021 09:25:03 ------------------------------------------------------------
+12/04/2021 09:25:03 Schedule Name:         DAILY-2100
+12/04/2021 09:25:03 Action:                Incremental
+12/04/2021 09:25:03 Objects:
+12/04/2021 09:25:03 Options:               -quiet
+12/04/2021 09:25:03 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 09:25:03 ------------------------------------------------------------
+12/04/2021 09:25:03 Scheduler has been stopped.
+
+12/04/2021 13:25:03 Scheduler has been started by Dsmcad.
+12/04/2021 13:25:03 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 13:25:03 Querying server for next scheduled event.
+12/04/2021 13:25:03 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 13:25:03 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 13:25:03   Server Version 8, Release 1, Level 12.100
+12/04/2021 13:25:03   Server date/time: 12/04/2021 13:25:03  Last access: 12/04/2021 09:25:03
+
+12/04/2021 13:25:03 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 13:25:03 --- SCHEDULEREC QUERY END
+12/04/2021 13:25:03 Next operation scheduled:
+12/04/2021 13:25:03 ------------------------------------------------------------
+12/04/2021 13:25:03 Schedule Name:         DAILY-2100
+12/04/2021 13:25:03 Action:                Incremental
+12/04/2021 13:25:03 Objects:
+12/04/2021 13:25:03 Options:               -quiet
+12/04/2021 13:25:03 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 13:25:03 ------------------------------------------------------------
+12/04/2021 13:25:03 Scheduler has been stopped.
+
+12/04/2021 17:25:03 Scheduler has been started by Dsmcad.
+12/04/2021 17:25:03 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 17:25:03 Querying server for next scheduled event.
+12/04/2021 17:25:03 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 17:25:04 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 17:25:04   Server Version 8, Release 1, Level 12.100
+12/04/2021 17:25:04   Server date/time: 12/04/2021 17:25:04  Last access: 12/04/2021 13:25:03
+
+12/04/2021 17:25:04 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 17:25:04 --- SCHEDULEREC QUERY END
+12/04/2021 17:25:04 Next operation scheduled:
+12/04/2021 17:25:04 ------------------------------------------------------------
+12/04/2021 17:25:04 Schedule Name:         DAILY-2100
+12/04/2021 17:25:04 Action:                Incremental
+12/04/2021 17:25:04 Objects:
+12/04/2021 17:25:04 Options:               -quiet
+12/04/2021 17:25:04 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 17:25:04 ------------------------------------------------------------
+12/04/2021 17:25:04 Scheduler has been stopped.
+
+12/04/2021 21:02:05 Scheduler has been started by Dsmcad.
+12/04/2021 21:02:05 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 21:02:05 Querying server for next scheduled event.
+12/04/2021 21:02:05 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 21:02:05 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 21:02:05   Server Version 8, Release 1, Level 12.100
+12/04/2021 21:02:05   Server date/time: 12/04/2021 21:02:05  Last access: 12/04/2021 17:25:04
+
+12/04/2021 21:02:05 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 21:02:05 --- SCHEDULEREC QUERY END
+12/04/2021 21:02:05 Next operation scheduled:
+12/04/2021 21:02:05 ------------------------------------------------------------
+12/04/2021 21:02:05 Schedule Name:         DAILY-2100
+12/04/2021 21:02:05 Action:                Incremental
+12/04/2021 21:02:05 Objects:
+12/04/2021 21:02:05 Options:               -quiet
+12/04/2021 21:02:05 Server Window Start:   21:00:00 on 12/04/2021
+12/04/2021 21:02:05 ------------------------------------------------------------
+12/04/2021 21:02:05
+Executing scheduled command now.
+12/04/2021 21:02:05 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/04/2021 21:00:00
+12/04/2021 21:02:05 Incremental backup of volume '/'
+12/04/2021 21:02:05 Incremental backup of volume '/var'
+12/04/2021 21:02:05 Incremental backup of volume '/local'
+12/04/2021 21:02:05 Incremental backup of volume '/db/redis'
+12/04/2021 21:02:05 Incremental backup of volume '/var/log'
+12/04/2021 21:02:05 Incremental backup of volume '/home'
+12/04/2021 21:02:05 Incremental backup of volume '/opt'
+12/04/2021 21:02:05 Incremental backup of volume '/boot'
+12/04/2021 21:02:06 Successful incremental backup of '/boot'
+
+12/04/2021 21:02:09 Successful incremental backup of '/'
+
+12/04/2021 21:02:09 Successful incremental backup of '/var'
+
+12/04/2021 21:02:09 Successful incremental backup of '/local'
+
+12/04/2021 21:02:11 Successful incremental backup of '/db/redis'
+
+12/04/2021 21:02:15 Successful incremental backup of '/home'
+
+12/04/2021 21:02:15 Successful incremental backup of '/opt'
+
+12/04/2021 21:02:22 Successful incremental backup of '/var/log'
+
+12/04/2021 21:02:22 --- SCHEDULEREC STATUS BEGIN
+12/04/2021 21:02:22 Total number of objects inspected:      100,412
+12/04/2021 21:02:22 Total number of objects backed up:          135
+12/04/2021 21:02:22 Total number of objects updated:              0
+12/04/2021 21:02:22 Total number of objects rebound:              0
+12/04/2021 21:02:22 Total number of objects deleted:              0
+12/04/2021 21:02:22 Total number of objects expired:              1
+12/04/2021 21:02:22 Total number of objects failed:               0
+12/04/2021 21:02:22 Total number of objects encrypted:            0
+12/04/2021 21:02:22 Total number of objects grew:                 0
+12/04/2021 21:02:22 Total number of retries:                     13
+12/04/2021 21:02:22 Total number of bytes inspected:           3.90 GB
+12/04/2021 21:02:22 Total number of bytes transferred:     1,011.93 MB
+12/04/2021 21:02:22 Data transfer time:                       11.21 sec
+12/04/2021 21:02:22 Network data transfer rate:           92,358.09 KB/sec
+12/04/2021 21:02:22 Aggregate data transfer rate:         62,199.70 KB/sec
+12/04/2021 21:02:22 Objects compressed by:                        0%
+12/04/2021 21:02:22 Total data reduction ratio:               74.69%
+12/04/2021 21:02:22 Elapsed processing time:               00:00:16
+12/04/2021 21:02:22 --- SCHEDULEREC STATUS END
+12/04/2021 21:02:22 --- SCHEDULEREC OBJECT END DAILY-2100 12/04/2021 21:00:00
+12/04/2021 21:02:22 Scheduled event 'DAILY-2100' completed successfully.
+12/04/2021 21:02:22 Sending results for scheduled event 'DAILY-2100'.
+12/04/2021 21:02:22 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/04/2021 21:02:22 ANS1483I Schedule log pruning started.
+12/04/2021 21:02:22 ANS1484I Schedule log pruning finished successfully.
+12/04/2021 21:02:22 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/04/2021 21:02:22 Querying server for next scheduled event.
+12/04/2021 21:02:22 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/04/2021 21:02:22 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/04/2021 21:02:22   Server Version 8, Release 1, Level 12.100
+12/04/2021 21:02:22   Server date/time: 12/04/2021 21:02:22  Last access: 12/04/2021 21:02:14
+
+12/04/2021 21:02:22 --- SCHEDULEREC QUERY BEGIN
+12/04/2021 21:02:22 --- SCHEDULEREC QUERY END
+12/04/2021 21:02:22 Next operation scheduled:
+12/04/2021 21:02:22 ------------------------------------------------------------
+12/04/2021 21:02:22 Schedule Name:         DAILY-2100
+12/04/2021 21:02:22 Action:                Incremental
+12/04/2021 21:02:22 Objects:
+12/04/2021 21:02:22 Options:               -quiet
+12/04/2021 21:02:22 Server Window Start:   21:00:00 on 12/05/2021
+12/04/2021 21:02:22 ------------------------------------------------------------
+12/04/2021 21:02:22 Scheduler has been stopped.
+
+12/05/2021 01:02:22 Scheduler has been started by Dsmcad.
+12/05/2021 01:02:22 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 01:02:22 Querying server for next scheduled event.
+12/05/2021 01:02:22 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 01:02:23 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 01:02:23   Server Version 8, Release 1, Level 12.100
+12/05/2021 01:02:23   Server date/time: 12/05/2021 01:02:23  Last access: 12/04/2021 21:02:22
+
+12/05/2021 01:02:23 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 01:02:23 --- SCHEDULEREC QUERY END
+12/05/2021 01:02:23 Next operation scheduled:
+12/05/2021 01:02:23 ------------------------------------------------------------
+12/05/2021 01:02:23 Schedule Name:         DAILY-2100
+12/05/2021 01:02:23 Action:                Incremental
+12/05/2021 01:02:23 Objects:
+12/05/2021 01:02:23 Options:               -quiet
+12/05/2021 01:02:23 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 01:02:23 ------------------------------------------------------------
+12/05/2021 01:02:23 Scheduler has been stopped.
+
+12/05/2021 05:02:23 Scheduler has been started by Dsmcad.
+12/05/2021 05:02:23 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 05:02:23 Querying server for next scheduled event.
+12/05/2021 05:02:23 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 05:02:23 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 05:02:23   Server Version 8, Release 1, Level 12.100
+12/05/2021 05:02:23   Server date/time: 12/05/2021 05:02:23  Last access: 12/05/2021 01:02:23
+12/05/2021 05:02:23 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 05:02:23 --- SCHEDULEREC QUERY END
+12/05/2021 05:02:23 Next operation scheduled:
+12/05/2021 05:02:23 ------------------------------------------------------------
+12/05/2021 05:02:23 Schedule Name:         DAILY-2100
+12/05/2021 05:02:23 Action:                Incremental
+12/05/2021 05:02:23 Objects:
+12/05/2021 05:02:23 Options:               -quiet
+12/05/2021 05:02:23 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 05:02:23 ------------------------------------------------------------
+12/05/2021 05:02:23 Scheduler has been stopped.
+
+12/05/2021 09:02:23 Scheduler has been started by Dsmcad.
+12/05/2021 09:02:23 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 09:02:23 Querying server for next scheduled event.
+12/05/2021 09:02:23 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 09:02:24 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 09:02:24   Server Version 8, Release 1, Level 12.100
+12/05/2021 09:02:24   Server date/time: 12/05/2021 09:02:24  Last access: 12/05/2021 05:02:23
+
+12/05/2021 09:02:24 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 09:02:24 --- SCHEDULEREC QUERY END
+12/05/2021 09:02:24 Next operation scheduled:
+12/05/2021 09:02:24 ------------------------------------------------------------
+12/05/2021 09:02:24 Schedule Name:         DAILY-2100
+12/05/2021 09:02:24 Action:                Incremental
+12/05/2021 09:02:24 Objects:
+12/05/2021 09:02:24 Options:               -quiet
+12/05/2021 09:02:24 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 09:02:24 ------------------------------------------------------------
+12/05/2021 09:02:24 Scheduler has been stopped.
+
+12/05/2021 13:02:24 Scheduler has been started by Dsmcad.
+12/05/2021 13:02:24 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 13:02:24 Querying server for next scheduled event.
+12/05/2021 13:02:24 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 13:02:25 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 13:02:25   Server Version 8, Release 1, Level 12.100
+12/05/2021 13:02:25   Server date/time: 12/05/2021 13:02:25  Last access: 12/05/2021 09:02:24
+
+12/05/2021 13:02:25 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 13:02:25 --- SCHEDULEREC QUERY END
+12/05/2021 13:02:25 Next operation scheduled:
+12/05/2021 13:02:25 ------------------------------------------------------------
+12/05/2021 13:02:25 Schedule Name:         DAILY-2100
+12/05/2021 13:02:25 Action:                Incremental
+12/05/2021 13:02:25 Objects:
+12/05/2021 13:02:25 Options:               -quiet
+12/05/2021 13:02:25 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 13:02:25 ------------------------------------------------------------
+12/05/2021 13:02:25 Scheduler has been stopped.
+
+12/05/2021 17:02:25 Scheduler has been started by Dsmcad.
+12/05/2021 17:02:25 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 17:02:25 Querying server for next scheduled event.
+12/05/2021 17:02:25 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 17:02:26 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 17:02:26   Server Version 8, Release 1, Level 12.100
+12/05/2021 17:02:26   Server date/time: 12/05/2021 17:02:25  Last access: 12/05/2021 13:02:25
+
+12/05/2021 17:02:26 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 17:02:26 --- SCHEDULEREC QUERY END
+12/05/2021 17:02:26 Next operation scheduled:
+12/05/2021 17:02:26 ------------------------------------------------------------
+12/05/2021 17:02:26 Schedule Name:         DAILY-2100
+12/05/2021 17:02:26 Action:                Incremental
+12/05/2021 17:02:26 Objects:
+12/05/2021 17:02:26 Options:               -quiet
+12/05/2021 17:02:26 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 17:02:26 ------------------------------------------------------------
+12/05/2021 17:02:26 Scheduler has been stopped.
+
+12/05/2021 21:00:26 Scheduler has been started by Dsmcad.
+12/05/2021 21:00:26 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 21:00:26 Querying server for next scheduled event.
+12/05/2021 21:00:26 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 21:00:27 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 21:00:27   Server Version 8, Release 1, Level 12.100
+12/05/2021 21:00:27   Server date/time: 12/05/2021 21:00:27  Last access: 12/05/2021 17:02:26
+
+12/05/2021 21:00:27 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 21:00:27 --- SCHEDULEREC QUERY END
+12/05/2021 21:00:27 Next operation scheduled:
+12/05/2021 21:00:27 ------------------------------------------------------------
+12/05/2021 21:00:27 Schedule Name:         DAILY-2100
+12/05/2021 21:00:27 Action:                Incremental
+12/05/2021 21:00:27 Objects:
+12/05/2021 21:00:27 Options:               -quiet
+12/05/2021 21:00:27 Server Window Start:   21:00:00 on 12/05/2021
+12/05/2021 21:00:27 ------------------------------------------------------------
+12/05/2021 21:00:27
+Executing scheduled command now.
+12/05/2021 21:00:27 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/05/2021 21:00:00
+12/05/2021 21:00:27 Incremental backup of volume '/'
+12/05/2021 21:00:27 Incremental backup of volume '/var'
+12/05/2021 21:00:27 Incremental backup of volume '/local'
+12/05/2021 21:00:27 Incremental backup of volume '/db/redis'
+12/05/2021 21:00:27 Incremental backup of volume '/var/log'
+12/05/2021 21:00:27 Incremental backup of volume '/home'
+12/05/2021 21:00:27 Incremental backup of volume '/opt'
+12/05/2021 21:00:27 Incremental backup of volume '/boot'
+12/05/2021 21:00:28 Successful incremental backup of '/boot'
+
+12/05/2021 21:00:31 Successful incremental backup of '/'
+
+12/05/2021 21:00:31 Successful incremental backup of '/var'
+
+12/05/2021 21:00:31 Successful incremental backup of '/local'
+
+12/05/2021 21:00:33 Successful incremental backup of '/db/redis'
+
+12/05/2021 21:00:39 Successful incremental backup of '/home'
+
+12/05/2021 21:00:39 Successful incremental backup of '/opt'
+
+12/05/2021 21:00:43 Successful incremental backup of '/var/log'
+
+12/05/2021 21:00:43 --- SCHEDULEREC STATUS BEGIN
+12/05/2021 21:00:43 Total number of objects inspected:      100,427
+12/05/2021 21:00:43 Total number of objects backed up:          117
+12/05/2021 21:00:43 Total number of objects updated:              0
+12/05/2021 21:00:43 Total number of objects rebound:              0
+12/05/2021 21:00:43 Total number of objects deleted:              0
+12/05/2021 21:00:43 Total number of objects expired:              0
+12/05/2021 21:00:43 Total number of objects failed:               0
+12/05/2021 21:00:43 Total number of objects encrypted:            0
+12/05/2021 21:00:43 Total number of objects grew:                 0
+12/05/2021 21:00:43 Total number of retries:                     14
+12/05/2021 21:00:43 Total number of bytes inspected:           3.91 GB
+12/05/2021 21:00:43 Total number of bytes transferred:         1.02 GB
+12/05/2021 21:00:43 Data transfer time:                       11.17 sec
+12/05/2021 21:00:43 Network data transfer rate:           95,631.36 KB/sec
+12/05/2021 21:00:43 Aggregate data transfer rate:         65,018.03 KB/sec
+12/05/2021 21:00:43 Objects compressed by:                        0%
+12/05/2021 21:00:43 Total data reduction ratio:               73.95%
+12/05/2021 21:00:43 Elapsed processing time:               00:00:16
+12/05/2021 21:00:43 --- SCHEDULEREC STATUS END
+12/05/2021 21:00:43 --- SCHEDULEREC OBJECT END DAILY-2100 12/05/2021 21:00:00
+12/05/2021 21:00:43 Scheduled event 'DAILY-2100' completed successfully.
+12/05/2021 21:00:43 Sending results for scheduled event 'DAILY-2100'.
+12/05/2021 21:00:43 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/05/2021 21:00:43 ANS1483I Schedule log pruning started.
+12/05/2021 21:00:43 ANS1484I Schedule log pruning finished successfully.
+12/05/2021 21:00:43 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/05/2021 21:00:43 Querying server for next scheduled event.
+12/05/2021 21:00:43 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/05/2021 21:00:44 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/05/2021 21:00:44   Server Version 8, Release 1, Level 12.100
+12/05/2021 21:00:44   Server date/time: 12/05/2021 21:00:44  Last access: 12/05/2021 21:00:37
+
+12/05/2021 21:00:44 --- SCHEDULEREC QUERY BEGIN
+12/05/2021 21:00:44 --- SCHEDULEREC QUERY END
+12/05/2021 21:00:44 Next operation scheduled:
+12/05/2021 21:00:44 ------------------------------------------------------------
+12/05/2021 21:00:44 Schedule Name:         DAILY-2100
+12/05/2021 21:00:44 Action:                Incremental
+12/05/2021 21:00:44 Objects:
+12/05/2021 21:00:44 Options:               -quiet
+12/05/2021 21:00:44 Server Window Start:   21:00:00 on 12/06/2021
+12/05/2021 21:00:44 ------------------------------------------------------------
+12/05/2021 21:00:44 Scheduler has been stopped.
+
+12/06/2021 01:00:44 Scheduler has been started by Dsmcad.
+12/06/2021 01:00:44 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 01:00:44 Querying server for next scheduled event.
+12/06/2021 01:00:44 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 01:00:45 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 01:00:45   Server Version 8, Release 1, Level 12.100
+12/06/2021 01:00:45   Server date/time: 12/06/2021 01:00:44  Last access: 12/05/2021 21:00:44
+
+12/06/2021 01:00:45 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 01:00:45 --- SCHEDULEREC QUERY END
+12/06/2021 01:00:45 Next operation scheduled:
+12/06/2021 01:00:45 ------------------------------------------------------------
+12/06/2021 01:00:45 Schedule Name:         DAILY-2100
+12/06/2021 01:00:45 Action:                Incremental
+12/06/2021 01:00:45 Objects:
+12/06/2021 01:00:45 Options:               -quiet
+12/06/2021 01:00:45 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 01:00:45 ------------------------------------------------------------
+12/06/2021 01:00:45 Scheduler has been stopped.
+
+12/06/2021 05:00:45 Scheduler has been started by Dsmcad.
+12/06/2021 05:00:45 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 05:00:45 Querying server for next scheduled event.
+12/06/2021 05:00:45 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 05:00:46 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 05:00:46   Server Version 8, Release 1, Level 12.100
+12/06/2021 05:00:46   Server date/time: 12/06/2021 05:00:46  Last access: 12/06/2021 01:00:44
+
+12/06/2021 09:00:46 Scheduler has been started by Dsmcad.
+12/06/2021 09:00:46 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 09:00:46 Querying server for next scheduled event.
+12/06/2021 09:00:46 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 09:00:47 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 09:00:47   Server Version 8, Release 1, Level 12.100
+12/06/2021 09:00:47   Server date/time: 12/06/2021 09:00:47  Last access: 12/06/2021 05:00:46
+
+12/06/2021 09:00:47 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 09:00:47 --- SCHEDULEREC QUERY END
+12/06/2021 09:00:47 Next operation scheduled:
+12/06/2021 09:00:47 ------------------------------------------------------------
+12/06/2021 09:00:47 Schedule Name:         DAILY-2100
+12/06/2021 09:00:47 Action:                Incremental
+12/06/2021 09:00:47 Objects:
+12/06/2021 09:00:47 Options:               -quiet
+12/06/2021 09:00:47 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 09:00:47 ------------------------------------------------------------
+12/06/2021 09:00:47 Scheduler has been stopped.
+
+12/06/2021 13:00:47 Scheduler has been started by Dsmcad.
+12/06/2021 13:00:47 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 13:00:47 Querying server for next scheduled event.
+12/06/2021 13:00:47 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 13:00:48 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 13:00:48   Server Version 8, Release 1, Level 12.100
+12/06/2021 13:00:48   Server date/time: 12/06/2021 13:00:48  Last access: 12/06/2021 09:00:47
+
+12/06/2021 13:00:48 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 13:00:48 --- SCHEDULEREC QUERY END
+12/06/2021 13:00:48 Next operation scheduled:
+12/06/2021 13:00:48 ------------------------------------------------------------
+12/06/2021 13:00:48 Schedule Name:         DAILY-2100
+12/06/2021 13:00:48 Action:                Incremental
+12/06/2021 13:00:48 Objects:
+12/06/2021 13:00:48 Options:               -quiet
+12/06/2021 13:00:48 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 13:00:48 ------------------------------------------------------------
+12/06/2021 13:00:48 Scheduler has been stopped.
+
+12/06/2021 17:00:48 Scheduler has been started by Dsmcad.
+12/06/2021 17:00:48 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 17:00:48 Querying server for next scheduled event.
+12/06/2021 17:00:48 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 17:00:49 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 17:00:49   Server Version 8, Release 1, Level 12.100
+12/06/2021 17:00:49   Server date/time: 12/06/2021 17:00:49  Last access: 12/06/2021 13:00:48
+
+12/06/2021 17:00:49 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 17:00:49 --- SCHEDULEREC QUERY END
+12/06/2021 17:00:49 Next operation scheduled:
+12/06/2021 17:00:49 ------------------------------------------------------------
+12/06/2021 17:00:49 Schedule Name:         DAILY-2100
+12/06/2021 17:00:49 Action:                Incremental
+12/06/2021 17:00:49 Objects:
+12/06/2021 17:00:49 Options:               -quiet
+12/06/2021 17:00:49 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 17:00:49 ------------------------------------------------------------
+12/06/2021 17:00:49 Scheduler has been stopped.
+
+12/06/2021 21:00:49 Scheduler has been started by Dsmcad.
+12/06/2021 21:00:49 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 21:00:49 Querying server for next scheduled event.
+12/06/2021 21:00:49 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 21:00:50 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 21:00:50   Server Version 8, Release 1, Level 12.100
+12/06/2021 21:00:50   Server date/time: 12/06/2021 21:00:50  Last access: 12/06/2021 17:00:49
+
+12/06/2021 21:00:50 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 21:00:50 --- SCHEDULEREC QUERY END
+12/06/2021 21:00:50 Next operation scheduled:
+12/06/2021 21:00:50 ------------------------------------------------------------
+12/06/2021 21:00:50 Schedule Name:         DAILY-2100
+12/06/2021 21:00:50 Action:                Incremental
+12/06/2021 21:00:50 Objects:
+12/06/2021 21:00:50 Options:               -quiet
+12/06/2021 21:00:50 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 21:00:50 ------------------------------------------------------------
+12/06/2021 21:00:50 Scheduler has been stopped.
+
+12/06/2021 21:26:50 Scheduler has been started by Dsmcad.
+12/06/2021 21:26:50 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 21:26:50 Querying server for next scheduled event.
+12/06/2021 21:26:50 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 21:26:51 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 21:26:51   Server Version 8, Release 1, Level 12.100
+12/06/2021 21:26:51   Server date/time: 12/06/2021 21:26:51  Last access: 12/06/2021 21:00:50
+
+12/06/2021 21:26:51 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 21:26:51 --- SCHEDULEREC QUERY END
+12/06/2021 21:26:51 Next operation scheduled:
+12/06/2021 21:26:51 ------------------------------------------------------------
+12/06/2021 21:26:51 Schedule Name:         DAILY-2100
+12/06/2021 21:26:51 Action:                Incremental
+12/06/2021 21:26:51 Objects:
+12/06/2021 21:26:51 Options:               -quiet
+12/06/2021 21:26:51 Server Window Start:   21:00:00 on 12/06/2021
+12/06/2021 21:26:51 ------------------------------------------------------------
+12/06/2021 21:26:51
+Executing scheduled command now.
+12/06/2021 21:26:51 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/06/2021 21:00:00
+12/06/2021 21:26:51 Incremental backup of volume '/'
+12/06/2021 21:26:51 Incremental backup of volume '/var'
+12/06/2021 21:26:51 Incremental backup of volume '/local'
+12/06/2021 21:26:51 Incremental backup of volume '/db/redis'
+12/06/2021 21:26:51 Incremental backup of volume '/var/log'
+12/06/2021 21:26:51 Incremental backup of volume '/home'
+12/06/2021 21:26:51 Incremental backup of volume '/opt'
+12/06/2021 21:26:51 Incremental backup of volume '/boot'
+12/06/2021 21:26:52 Successful incremental backup of '/boot'
+
+12/06/2021 21:26:56 Successful incremental backup of '/'
+
+12/06/2021 21:26:57 Successful incremental backup of '/var'
+
+12/06/2021 21:26:57 Successful incremental backup of '/local'
+
+12/06/2021 21:26:58 Successful incremental backup of '/db/redis'
+
+12/06/2021 21:27:05 Successful incremental backup of '/home'
+
+12/06/2021 21:27:05 Successful incremental backup of '/opt'
+
+12/06/2021 21:27:10 Successful incremental backup of '/var/log'
+
+12/06/2021 21:27:10 --- SCHEDULEREC STATUS BEGIN
+12/06/2021 21:27:10 Total number of objects inspected:      100,440
+12/06/2021 21:27:10 Total number of objects backed up:          149
+12/06/2021 21:27:10 Total number of objects updated:              0
+12/06/2021 21:27:10 Total number of objects rebound:              0
+12/06/2021 21:27:10 Total number of objects deleted:              0
+12/06/2021 21:27:10 Total number of objects expired:              1
+12/06/2021 21:27:10 Total number of objects failed:               0
+12/06/2021 21:27:10 Total number of objects encrypted:            0
+12/06/2021 21:27:10 Total number of objects grew:                 0
+12/06/2021 21:27:10 Total number of retries:                     15
+12/06/2021 21:27:10 Total number of bytes inspected:           3.91 GB
+12/06/2021 21:27:10 Total number of bytes transferred:         1.01 GB
+12/06/2021 21:27:10 Data transfer time:                       12.00 sec
+12/06/2021 21:27:10 Network data transfer rate:           87,883.42 KB/sec
+12/06/2021 21:27:10 Aggregate data transfer rate:         55,714.84 KB/sec
+12/06/2021 21:27:10 Objects compressed by:                        0%
+12/06/2021 21:27:10 Total data reduction ratio:               74.27%
+12/06/2021 21:27:10 Elapsed processing time:               00:00:18
+12/06/2021 21:27:10 --- SCHEDULEREC STATUS END
+12/06/2021 21:27:10 --- SCHEDULEREC OBJECT END DAILY-2100 12/06/2021 21:00:00
+12/06/2021 21:27:10 Scheduled event 'DAILY-2100' completed successfully.
+12/06/2021 21:27:10 Sending results for scheduled event 'DAILY-2100'.
+12/06/2021 21:27:10 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/06/2021 21:27:10 ANS1483I Schedule log pruning started.
+12/06/2021 21:27:10 ANS1484I Schedule log pruning finished successfully.
+12/06/2021 21:27:10 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/06/2021 21:27:10 Querying server for next scheduled event.
+12/06/2021 21:27:10 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/06/2021 21:27:11 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/06/2021 21:27:11   Server Version 8, Release 1, Level 12.100
+12/06/2021 21:27:11   Server date/time: 12/06/2021 21:27:10  Last access: 12/06/2021 21:27:04
+
+12/06/2021 21:27:11 --- SCHEDULEREC QUERY BEGIN
+12/06/2021 21:27:11 --- SCHEDULEREC QUERY END
+12/06/2021 21:27:11 Next operation scheduled:
+12/06/2021 21:27:11 ------------------------------------------------------------
+12/06/2021 21:27:11 Schedule Name:         DAILY-2100
+12/06/2021 21:27:11 Action:                Incremental
+12/06/2021 21:27:11 Objects:
+12/06/2021 21:27:11 Options:               -quiet
+12/06/2021 21:27:11 Server Window Start:   21:00:00 on 12/07/2021
+12/06/2021 21:27:11 ------------------------------------------------------------
+12/06/2021 21:27:11 Scheduler has been stopped.
+
+12/07/2021 01:27:11 Scheduler has been started by Dsmcad.
+12/07/2021 01:27:11 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 9.0
+12/07/2021 01:27:11 Querying server for next scheduled event.
+12/07/2021 01:27:11 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/07/2021 01:27:11 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/07/2021 01:27:11   Server Version 8, Release 1, Level 12.100
+12/07/2021 01:27:11   Server date/time: 12/07/2021 01:27:11  Last access: 12/06/2021 21:27:11
+
+12/07/2021 01:27:11 --- SCHEDULEREC QUERY BEGIN
+12/07/2021 01:27:11 --- SCHEDULEREC QUERY END
+12/07/2021 01:27:11 Next operation scheduled:
+12/07/2021 01:27:11 ------------------------------------------------------------
+12/07/2021 01:27:11 Schedule Name:         DAILY-2100
+12/07/2021 01:27:11 Action:                Incremental
+12/07/2021 01:27:11 Objects:
+12/07/2021 01:27:11 Options:               -quiet
+12/07/2021 01:27:11 Server Window Start:   21:00:00 on 12/07/2021
+12/07/2021 01:27:11 ------------------------------------------------------------
+12/07/2021 01:27:11 Scheduler has been stopped.
+12/08/2021 08:22:54 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 08:22:54 Querying server for next scheduled event.
+12/08/2021 08:22:54 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 08:22:55 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 08:22:55   Server Version 8, Release 1, Level 12.100
+12/08/2021 08:22:55   Server date/time: 12/08/2021 08:22:55  Last access: 12/08/2021 08:22:47
+
+12/08/2021 08:22:55 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 08:22:55 --- SCHEDULEREC QUERY END
+12/08/2021 08:22:55 Next operation scheduled:
+12/08/2021 08:22:55 ------------------------------------------------------------
+12/08/2021 08:22:55 Schedule Name:         DAILY-2100
+12/08/2021 08:22:55 Action:                Incremental
+12/08/2021 08:22:55 Objects:
+12/08/2021 08:22:55 Options:               -quiet
+12/08/2021 08:22:55 Server Window Start:   21:00:00 on 12/08/2021
+12/08/2021 08:22:55 ------------------------------------------------------------
+12/08/2021 08:22:55 Scheduler has been stopped.
+
+12/08/2021 12:22:55 Scheduler has been started by Dsmcad.
+12/08/2021 12:22:55 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 12:22:55 Querying server for next scheduled event.
+12/08/2021 12:22:55 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 12:22:56 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 12:22:56   Server Version 8, Release 1, Level 12.100
+12/08/2021 12:22:56   Server date/time: 12/08/2021 12:22:55  Last access: 12/08/2021 08:22:55
+
+12/08/2021 12:22:56 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 12:22:56 --- SCHEDULEREC QUERY END
+12/08/2021 12:22:56 Next operation scheduled:
+12/08/2021 12:22:56 ------------------------------------------------------------
+12/08/2021 12:22:56 Schedule Name:         DAILY-2100
+12/08/2021 12:22:56 Action:                Incremental
+12/08/2021 12:22:56 Objects:
+12/08/2021 12:22:56 Options:               -quiet
+12/08/2021 12:22:56 Server Window Start:   21:00:00 on 12/08/2021
+12/08/2021 12:22:56 ------------------------------------------------------------
+12/08/2021 12:22:56 Scheduler has been stopped.
+
+12/08/2021 16:22:56 Scheduler has been started by Dsmcad.
+12/08/2021 16:22:56 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 16:22:56 Querying server for next scheduled event.
+12/08/2021 16:22:56 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 16:22:57 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 16:22:57   Server Version 8, Release 1, Level 12.100
+12/08/2021 16:22:57   Server date/time: 12/08/2021 16:22:57  Last access: 12/08/2021 12:22:56
+
+12/08/2021 16:22:57 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 16:22:57 --- SCHEDULEREC QUERY END
+12/08/2021 16:22:57 Next operation scheduled:
+12/08/2021 16:22:57 ------------------------------------------------------------
+12/08/2021 16:22:57 Schedule Name:         DAILY-2100
+12/08/2021 16:22:57 Action:                Incremental
+12/08/2021 16:22:57 Objects:
+12/08/2021 16:22:57 Options:               -quiet
+12/08/2021 16:22:57 Server Window Start:   21:00:00 on 12/08/2021
+12/08/2021 16:22:57 ------------------------------------------------------------
+12/08/2021 16:22:57 Scheduler has been stopped.
+
+12/08/2021 20:22:57 Scheduler has been started by Dsmcad.
+12/08/2021 20:22:57 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 20:22:57 Querying server for next scheduled event.
+12/08/2021 20:22:57 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 20:22:57 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 20:22:57   Server Version 8, Release 1, Level 12.100
+12/08/2021 20:22:57   Server date/time: 12/08/2021 20:22:57  Last access: 12/08/2021 16:22:57
+
+12/08/2021 20:22:57 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 20:22:57 --- SCHEDULEREC QUERY END
+12/08/2021 20:22:57 Next operation scheduled:
+12/08/2021 20:22:57 ------------------------------------------------------------
+12/08/2021 20:22:57 Schedule Name:         DAILY-2100
+12/08/2021 20:22:57 Action:                Incremental
+12/08/2021 20:22:57 Objects:
+12/08/2021 20:22:57 Options:               -quiet
+12/08/2021 20:22:57 Server Window Start:   21:00:00 on 12/08/2021
+12/08/2021 20:22:57 ------------------------------------------------------------
+12/08/2021 20:22:57 Scheduler has been stopped.
+
+12/08/2021 21:24:57 Scheduler has been started by Dsmcad.
+12/08/2021 21:24:57 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 21:24:57 Querying server for next scheduled event.
+12/08/2021 21:24:57 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 21:24:58 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 21:24:58   Server Version 8, Release 1, Level 12.100
+12/08/2021 21:24:58   Server date/time: 12/08/2021 21:24:58  Last access: 12/08/2021 20:22:57
+
+12/08/2021 21:24:58 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 21:24:58 --- SCHEDULEREC QUERY END
+12/08/2021 21:24:58 Next operation scheduled:
+12/08/2021 21:24:58 ------------------------------------------------------------
+12/08/2021 21:24:58 Schedule Name:         DAILY-2100
+12/08/2021 21:24:58 Action:                Incremental
+12/08/2021 21:24:58 Objects:
+12/08/2021 21:24:58 Options:               -quiet
+12/08/2021 21:24:58 Server Window Start:   21:00:00 on 12/08/2021
+12/08/2021 21:24:58 ------------------------------------------------------------
+12/08/2021 21:24:58
+Executing scheduled command now.
+12/08/2021 21:24:58 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/08/2021 21:00:00
+12/08/2021 21:24:58 Incremental backup of volume '/'
+12/08/2021 21:24:58 Incremental backup of volume '/opt'
+12/08/2021 21:24:58 Incremental backup of volume '/db/redis'
+12/08/2021 21:24:58 Incremental backup of volume '/local'
+12/08/2021 21:24:58 Incremental backup of volume '/home'
+12/08/2021 21:24:58 Incremental backup of volume '/var'
+12/08/2021 21:24:58 Incremental backup of volume '/boot'
+12/08/2021 21:24:58 Incremental backup of volume '/var/log'
+12/08/2021 21:25:03 Successful incremental backup of '/boot'
+
+12/08/2021 21:25:04 Successful incremental backup of '/opt'
+
+12/08/2021 21:25:06 Successful incremental backup of '/db/redis'
+
+12/08/2021 21:25:06 Successful incremental backup of '/local'
+
+12/08/2021 21:25:06 Successful incremental backup of '/home'
+
+12/08/2021 21:25:06 Successful incremental backup of '/var'
+
+12/08/2021 21:25:10 Successful incremental backup of '/'
+
+12/08/2021 21:25:15 Successful incremental backup of '/var/log'
+
+12/08/2021 21:25:15 --- SCHEDULEREC STATUS BEGIN
+12/08/2021 21:25:15 Total number of objects inspected:      100,525
+12/08/2021 21:25:15 Total number of objects backed up:           68
+12/08/2021 21:25:15 Total number of objects updated:              0
+12/08/2021 21:25:15 Total number of objects rebound:              0
+12/08/2021 21:25:15 Total number of objects deleted:              0
+12/08/2021 21:25:15 Total number of objects expired:              0
+12/08/2021 21:25:15 Total number of objects failed:               0
+12/08/2021 21:25:15 Total number of objects encrypted:            0
+12/08/2021 21:25:15 Total number of objects grew:                 0
+12/08/2021 21:25:15 Total number of retries:                     11
+12/08/2021 21:25:15 Total number of bytes inspected:           3.91 GB
+12/08/2021 21:25:15 Total number of bytes transferred:     1,008.45 MB
+12/08/2021 21:25:15 Data transfer time:                       11.04 sec
+12/08/2021 21:25:15 Network data transfer rate:           93,537.19 KB/sec
+12/08/2021 21:25:15 Aggregate data transfer rate:         61,933.01 KB/sec
+12/08/2021 21:25:15 Objects compressed by:                        0%
+12/08/2021 21:25:15 Total data reduction ratio:               74.84%
+12/08/2021 21:25:15 Elapsed processing time:               00:00:16
+12/08/2021 21:25:15 --- SCHEDULEREC STATUS END
+12/08/2021 21:25:15 --- SCHEDULEREC OBJECT END DAILY-2100 12/08/2021 21:00:00
+12/08/2021 21:25:15 Scheduled event 'DAILY-2100' completed successfully.
+12/08/2021 21:25:15 Sending results for scheduled event 'DAILY-2100'.
+12/08/2021 21:25:15 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/08/2021 21:25:15 ANS1483I Schedule log pruning started.
+12/08/2021 21:25:15 ANS1484I Schedule log pruning finished successfully.
+12/08/2021 21:25:15 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/08/2021 21:25:15 Querying server for next scheduled event.
+12/08/2021 21:25:15 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/08/2021 21:25:15 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/08/2021 21:25:15   Server Version 8, Release 1, Level 12.100
+12/08/2021 21:25:15   Server date/time: 12/08/2021 21:25:15  Last access: 12/08/2021 21:25:06
+
+12/08/2021 21:25:15 --- SCHEDULEREC QUERY BEGIN
+12/08/2021 21:25:15 --- SCHEDULEREC QUERY END
+12/08/2021 21:25:15 Next operation scheduled:
+12/08/2021 21:25:15 ------------------------------------------------------------
+12/08/2021 21:25:15 Schedule Name:         DAILY-2100
+12/08/2021 21:25:15 Action:                Incremental
+12/08/2021 21:25:15 Objects:
+12/08/2021 21:25:15 Options:               -quiet
+12/08/2021 21:25:15 Server Window Start:   21:00:00 on 12/09/2021
+12/08/2021 21:25:15 ------------------------------------------------------------
+12/08/2021 21:25:15 Scheduler has been stopped.
+
+12/09/2021 01:25:15 Scheduler has been started by Dsmcad.
+12/09/2021 01:25:15 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 01:25:15 Querying server for next scheduled event.
+12/09/2021 01:25:15 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 01:25:16 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 01:25:16   Server Version 8, Release 1, Level 12.100
+12/09/2021 01:25:16   Server date/time: 12/09/2021 01:25:16  Last access: 12/08/2021 21:25:15
+
+12/09/2021 01:25:16 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 01:25:16 --- SCHEDULEREC QUERY END
+12/09/2021 01:25:16 Next operation scheduled:
+12/09/2021 01:25:16 ------------------------------------------------------------
+12/09/2021 01:25:16 Schedule Name:         DAILY-2100
+12/09/2021 01:25:16 Action:                Incremental
+12/09/2021 01:25:16 Objects:
+12/09/2021 01:25:16 Options:               -quiet
+12/09/2021 01:25:16 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 01:25:16 ------------------------------------------------------------
+12/09/2021 01:25:16 Scheduler has been stopped.
+
+12/09/2021 05:25:18 Scheduler has been started by Dsmcad.
+12/09/2021 05:25:18 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 05:25:18 Querying server for next scheduled event.
+12/09/2021 05:25:18 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 05:25:18 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 05:25:18   Server Version 8, Release 1, Level 12.100
+12/09/2021 05:25:18   Server date/time: 12/09/2021 05:25:18  Last access: 12/09/2021 01:25:16
+
+12/09/2021 05:25:18 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 05:25:18 --- SCHEDULEREC QUERY END
+12/09/2021 05:25:18 Next operation scheduled:
+12/09/2021 05:25:18 ------------------------------------------------------------
+12/09/2021 05:25:18 Schedule Name:         DAILY-2100
+12/09/2021 05:25:18 Action:                Incremental
+12/09/2021 05:25:18 Objects:
+12/09/2021 05:25:18 Options:               -quiet
+12/09/2021 05:25:18 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 05:25:18 ------------------------------------------------------------
+12/09/2021 05:25:18 Scheduler has been stopped.
+
+12/09/2021 09:25:18 Scheduler has been started by Dsmcad.
+12/09/2021 09:25:18 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 09:25:18 Querying server for next scheduled event.
+12/09/2021 09:25:18 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 09:25:19 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 09:25:19   Server Version 8, Release 1, Level 12.100
+12/09/2021 09:25:19   Server date/time: 12/09/2021 09:25:19  Last access: 12/09/2021 05:25:18
+
+12/09/2021 09:25:20 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 09:25:20 --- SCHEDULEREC QUERY END
+12/09/2021 09:25:20 Next operation scheduled:
+12/09/2021 09:25:20 ------------------------------------------------------------
+12/09/2021 09:25:20 Schedule Name:         DAILY-2100
+12/09/2021 09:25:20 Action:                Incremental
+12/09/2021 09:25:20 Objects:
+12/09/2021 09:25:20 Options:               -quiet
+12/09/2021 09:25:20 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 09:25:20 ------------------------------------------------------------
+12/09/2021 09:25:20 Scheduler has been stopped.
+
+12/09/2021 13:25:20 Scheduler has been started by Dsmcad.
+12/09/2021 13:25:20 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 13:25:20 Querying server for next scheduled event.
+12/09/2021 13:25:20 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 13:25:20 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 13:25:20   Server Version 8, Release 1, Level 12.100
+12/09/2021 13:25:20   Server date/time: 12/09/2021 13:25:20  Last access: 12/09/2021 09:25:19
+
+12/09/2021 13:25:20 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 13:25:20 --- SCHEDULEREC QUERY END
+12/09/2021 13:25:20 Next operation scheduled:
+12/09/2021 13:25:20 ------------------------------------------------------------
+12/09/2021 13:25:20 Schedule Name:         DAILY-2100
+12/09/2021 13:25:20 Action:                Incremental
+12/09/2021 13:25:20 Objects:
+12/09/2021 13:25:20 Options:               -quiet
+12/09/2021 13:25:20 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 13:25:20 ------------------------------------------------------------
+12/09/2021 13:25:20 Scheduler has been stopped.
+
+12/09/2021 17:25:20 Scheduler has been started by Dsmcad.
+12/09/2021 17:25:20 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 17:25:20 Querying server for next scheduled event.
+12/09/2021 17:25:20 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 17:25:22 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 17:25:22   Server Version 8, Release 1, Level 12.100
+12/09/2021 17:25:22   Server date/time: 12/09/2021 17:25:22  Last access: 12/09/2021 13:25:20
+
+12/09/2021 17:25:22 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 17:25:22 --- SCHEDULEREC QUERY END
+12/09/2021 17:25:22 Next operation scheduled:
+12/09/2021 17:25:22 ------------------------------------------------------------
+12/09/2021 17:25:22 Schedule Name:         DAILY-2100
+12/09/2021 17:25:22 Action:                Incremental
+12/09/2021 17:25:22 Objects:
+12/09/2021 17:25:22 Options:               -quiet
+12/09/2021 17:25:22 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 17:25:22 ------------------------------------------------------------
+12/09/2021 17:25:22 Scheduler has been stopped.
+
+12/09/2021 21:18:22 Scheduler has been started by Dsmcad.
+12/09/2021 21:18:22 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 21:18:22 Querying server for next scheduled event.
+12/09/2021 21:18:22 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 21:18:23 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 21:18:23   Server Version 8, Release 1, Level 12.100
+12/09/2021 21:18:23   Server date/time: 12/09/2021 21:18:23  Last access: 12/09/2021 17:25:22
+
+12/09/2021 21:18:23 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 21:18:23 --- SCHEDULEREC QUERY END
+12/09/2021 21:18:23 Next operation scheduled:
+12/09/2021 21:18:23 ------------------------------------------------------------
+12/09/2021 21:18:23 Schedule Name:         DAILY-2100
+12/09/2021 21:18:23 Action:                Incremental
+12/09/2021 21:18:23 Objects:
+12/09/2021 21:18:23 Options:               -quiet
+12/09/2021 21:18:23 Server Window Start:   21:00:00 on 12/09/2021
+12/09/2021 21:18:23 ------------------------------------------------------------
+12/09/2021 21:18:23
+Executing scheduled command now.
+12/09/2021 21:18:23 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/09/2021 21:00:00
+12/09/2021 21:18:24 Incremental backup of volume '/'
+12/09/2021 21:18:24 Incremental backup of volume '/opt'
+12/09/2021 21:18:24 Incremental backup of volume '/db/redis'
+12/09/2021 21:18:24 Incremental backup of volume '/local'
+12/09/2021 21:18:24 Incremental backup of volume '/home'
+12/09/2021 21:18:24 Incremental backup of volume '/var'
+12/09/2021 21:18:24 Incremental backup of volume '/boot'
+12/09/2021 21:18:24 Incremental backup of volume '/var/log'
+12/09/2021 21:18:29 Successful incremental backup of '/boot'
+
+12/09/2021 21:18:30 Successful incremental backup of '/opt'
+
+12/09/2021 21:18:31 Successful incremental backup of '/db/redis'
+
+12/09/2021 21:18:31 Successful incremental backup of '/local'
+
+12/09/2021 21:18:31 Successful incremental backup of '/var'
+
+12/09/2021 21:18:32 Successful incremental backup of '/'
+
+12/09/2021 21:18:32 Successful incremental backup of '/home'
+
+12/09/2021 21:18:43 Successful incremental backup of '/var/log'
+
+12/09/2021 21:18:43 --- SCHEDULEREC STATUS BEGIN
+12/09/2021 21:18:43 Total number of objects inspected:      100,534
+12/09/2021 21:18:43 Total number of objects backed up:          148
+12/09/2021 21:18:43 Total number of objects updated:              0
+12/09/2021 21:18:43 Total number of objects rebound:              0
+12/09/2021 21:18:43 Total number of objects deleted:              0
+12/09/2021 21:18:43 Total number of objects expired:             29
+12/09/2021 21:18:43 Total number of objects failed:               0
+12/09/2021 21:18:43 Total number of objects encrypted:            0
+12/09/2021 21:18:43 Total number of objects grew:                 0
+12/09/2021 21:18:43 Total number of retries:                     93
+12/09/2021 21:18:43 Total number of bytes inspected:           3.91 GB
+12/09/2021 21:18:43 Total number of bytes transferred:         1.91 GB
+12/09/2021 21:18:43 Data transfer time:                       15.24 sec
+12/09/2021 21:18:43 Network data transfer rate:          131,095.44 KB/sec
+12/09/2021 21:18:43 Aggregate data transfer rate:        102,658.93 KB/sec
+12/09/2021 21:18:43 Objects compressed by:                        0%
+12/09/2021 21:18:43 Total data reduction ratio:               51.27%
+12/09/2021 21:18:43 Elapsed processing time:               00:00:19
+12/09/2021 21:18:43 --- SCHEDULEREC STATUS END
+12/09/2021 21:18:43 --- SCHEDULEREC OBJECT END DAILY-2100 12/09/2021 21:00:00
+12/09/2021 21:18:43 Scheduled event 'DAILY-2100' completed successfully.
+12/09/2021 21:18:43 Sending results for scheduled event 'DAILY-2100'.
+12/09/2021 21:18:43 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/09/2021 21:18:43 ANS1483I Schedule log pruning started.
+12/09/2021 21:18:43 ANS1484I Schedule log pruning finished successfully.
+12/09/2021 21:18:43 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/09/2021 21:18:43 Querying server for next scheduled event.
+12/09/2021 21:18:43 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/09/2021 21:18:43 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/09/2021 21:18:43   Server Version 8, Release 1, Level 12.100
+12/09/2021 21:18:43   Server date/time: 12/09/2021 21:18:43  Last access: 12/09/2021 21:18:30
+
+12/09/2021 21:18:43 --- SCHEDULEREC QUERY BEGIN
+12/09/2021 21:18:43 --- SCHEDULEREC QUERY END
+12/09/2021 21:18:43 Next operation scheduled:
+12/09/2021 21:18:43 ------------------------------------------------------------
+12/09/2021 21:18:43 Schedule Name:         DAILY-2100
+12/09/2021 21:18:43 Action:                Incremental
+12/09/2021 21:18:43 Objects:
+12/09/2021 21:18:43 Options:               -quiet
+12/09/2021 21:18:43 Server Window Start:   21:00:00 on 12/10/2021
+12/09/2021 21:18:43 ------------------------------------------------------------
+12/09/2021 21:18:43 Scheduler has been stopped.
+
+12/10/2021 01:18:45 Scheduler has been started by Dsmcad.
+12/10/2021 01:18:45 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 01:18:45 Querying server for next scheduled event.
+12/10/2021 01:18:45 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 01:18:45 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 01:18:45   Server Version 8, Release 1, Level 12.100
+12/10/2021 01:18:45   Server date/time: 12/10/2021 01:18:45  Last access: 12/09/2021 21:18:43
+
+12/10/2021 01:18:46 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 01:18:46 --- SCHEDULEREC QUERY END
+12/10/2021 01:18:46 Next operation scheduled:
+12/10/2021 01:18:46 ------------------------------------------------------------
+12/10/2021 01:18:46 Schedule Name:         DAILY-2100
+12/10/2021 01:18:46 Action:                Incremental
+12/10/2021 01:18:46 Objects:
+12/10/2021 01:18:46 Options:               -quiet
+12/10/2021 01:18:46 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 01:18:46 ------------------------------------------------------------
+12/10/2021 01:18:46 Scheduler has been stopped.
+
+12/10/2021 05:18:46 Scheduler has been started by Dsmcad.
+12/10/2021 05:18:46 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 05:18:46 Querying server for next scheduled event.
+12/10/2021 05:18:46 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 05:18:47 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 05:18:47   Server Version 8, Release 1, Level 12.100
+12/10/2021 05:18:47   Server date/time: 12/10/2021 05:18:47  Last access: 12/10/2021 01:18:45
+
+12/10/2021 05:18:47 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 05:18:47 --- SCHEDULEREC QUERY END
+12/10/2021 05:18:47 Next operation scheduled:
+12/10/2021 05:18:47 ------------------------------------------------------------
+12/10/2021 05:18:47 Schedule Name:         DAILY-2100
+12/10/2021 05:18:47 Action:                Incremental
+12/10/2021 05:18:47 Objects:
+12/10/2021 05:18:47 Options:               -quiet
+12/10/2021 05:18:47 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 05:18:47 ------------------------------------------------------------
+12/10/2021 05:18:47 Scheduler has been stopped.
+
+12/10/2021 09:18:47 Scheduler has been started by Dsmcad.
+12/10/2021 09:18:47 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 09:18:47 Querying server for next scheduled event.
+12/10/2021 09:18:47 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 09:18:48 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 09:18:48   Server Version 8, Release 1, Level 12.100
+12/10/2021 09:18:48   Server date/time: 12/10/2021 09:18:48  Last access: 12/10/2021 05:18:47
+
+12/10/2021 09:18:48 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 09:18:48 --- SCHEDULEREC QUERY END
+12/10/2021 09:18:48 Next operation scheduled:
+12/10/2021 09:18:48 ------------------------------------------------------------
+12/10/2021 09:18:48 Schedule Name:         DAILY-2100
+12/10/2021 09:18:48 Action:                Incremental
+12/10/2021 09:18:48 Objects:
+12/10/2021 09:18:48 Options:               -quiet
+12/10/2021 09:18:48 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 09:18:48 ------------------------------------------------------------
+12/10/2021 09:18:48 Scheduler has been stopped.
+
+12/10/2021 13:18:48 Scheduler has been started by Dsmcad.
+12/10/2021 13:18:48 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 13:18:48 Querying server for next scheduled event.
+12/10/2021 13:18:48 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 13:18:49 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 13:18:49   Server Version 8, Release 1, Level 12.100
+12/10/2021 13:18:49   Server date/time: 12/10/2021 13:18:49  Last access: 12/10/2021 09:18:48
+
+12/10/2021 13:18:49 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 13:18:49 --- SCHEDULEREC QUERY END
+12/10/2021 13:18:49 Next operation scheduled:
+12/10/2021 13:18:49 ------------------------------------------------------------
+12/10/2021 13:18:49 Schedule Name:         DAILY-2100
+12/10/2021 13:18:49 Action:                Incremental
+12/10/2021 13:18:49 Objects:
+12/10/2021 13:18:49 Options:               -quiet
+12/10/2021 13:18:49 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 13:18:49 ------------------------------------------------------------
+12/10/2021 13:18:49 Scheduler has been stopped.
+
+12/10/2021 17:18:50 Scheduler has been started by Dsmcad.
+12/10/2021 17:18:50 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 17:18:50 Querying server for next scheduled event.
+12/10/2021 17:18:50 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 17:18:51 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 17:18:51   Server Version 8, Release 1, Level 12.100
+12/10/2021 17:18:51   Server date/time: 12/10/2021 17:18:51  Last access: 12/10/2021 13:18:49
+
+12/10/2021 17:18:51 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 17:18:51 --- SCHEDULEREC QUERY END
+12/10/2021 17:18:51 Next operation scheduled:
+12/10/2021 17:18:51 ------------------------------------------------------------
+12/10/2021 17:18:51 Schedule Name:         DAILY-2100
+12/10/2021 17:18:51 Action:                Incremental
+12/10/2021 17:18:51 Objects:
+12/10/2021 17:18:51 Options:               -quiet
+12/10/2021 17:18:51 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 17:18:51 ------------------------------------------------------------
+12/10/2021 17:18:51 Scheduler has been stopped.
+
+12/10/2021 21:18:51 Scheduler has been started by Dsmcad.
+12/10/2021 21:18:51 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 21:18:51 Querying server for next scheduled event.
+12/10/2021 21:18:51 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 21:18:52 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 21:18:52   Server Version 8, Release 1, Level 12.100
+12/10/2021 21:18:52   Server date/time: 12/10/2021 21:18:52  Last access: 12/10/2021 17:18:51
+
+12/10/2021 21:18:52 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 21:18:52 --- SCHEDULEREC QUERY END
+12/10/2021 21:18:52 Next operation scheduled:
+12/10/2021 21:18:52 ------------------------------------------------------------
+12/10/2021 21:18:52 Schedule Name:         DAILY-2100
+12/10/2021 21:18:52 Action:                Incremental
+12/10/2021 21:18:52 Objects:
+12/10/2021 21:18:52 Options:               -quiet
+12/10/2021 21:18:52 Server Window Start:   21:00:00 on 12/10/2021
+12/10/2021 21:18:52 ------------------------------------------------------------
+12/10/2021 21:18:52
+Executing scheduled command now.
+12/10/2021 21:18:52 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/10/2021 21:00:00
+12/10/2021 21:18:52 Incremental backup of volume '/'
+12/10/2021 21:18:52 Incremental backup of volume '/opt'
+12/10/2021 21:18:52 Incremental backup of volume '/db/redis'
+12/10/2021 21:18:52 Incremental backup of volume '/local'
+12/10/2021 21:18:52 Incremental backup of volume '/home'
+12/10/2021 21:18:52 Incremental backup of volume '/var'
+12/10/2021 21:18:52 Incremental backup of volume '/boot'
+12/10/2021 21:18:52 Incremental backup of volume '/var/log'
+12/10/2021 21:18:57 Successful incremental backup of '/boot'
+
+12/10/2021 21:18:58 Successful incremental backup of '/opt'
+
+12/10/2021 21:18:58 Successful incremental backup of '/db/redis'
+
+12/10/2021 21:18:58 Successful incremental backup of '/local'
+
+12/10/2021 21:18:58 Successful incremental backup of '/home'
+
+12/10/2021 21:19:01 Successful incremental backup of '/var'
+
+12/10/2021 21:19:03 Successful incremental backup of '/'
+
+12/10/2021 21:19:03 Successful incremental backup of '/var/log'
+
+12/10/2021 21:19:03 --- SCHEDULEREC STATUS BEGIN
+12/10/2021 21:19:03 Total number of objects inspected:      100,528
+12/10/2021 21:19:03 Total number of objects backed up:          119
+12/10/2021 21:19:03 Total number of objects updated:              0
+12/10/2021 21:19:03 Total number of objects rebound:              0
+12/10/2021 21:19:03 Total number of objects deleted:              0
+12/10/2021 21:19:03 Total number of objects expired:              1
+12/10/2021 21:19:03 Total number of objects failed:               0
+12/10/2021 21:19:03 Total number of objects encrypted:            0
+12/10/2021 21:19:03 Total number of objects grew:                 0
+12/10/2021 21:19:03 Total number of retries:                     35
+12/10/2021 21:19:03 Total number of bytes inspected:           3.92 GB
+12/10/2021 21:19:03 Total number of bytes transferred:       999.52 MB
+12/10/2021 21:19:03 Data transfer time:                        8.82 sec
+12/10/2021 21:19:03 Network data transfer rate:          115,969.02 KB/sec
+12/10/2021 21:19:03 Aggregate data transfer rate:         91,279.70 KB/sec
+12/10/2021 21:19:03 Objects compressed by:                        0%
+12/10/2021 21:19:03 Total data reduction ratio:               75.08%
+12/10/2021 21:19:03 Elapsed processing time:               00:00:11
+12/10/2021 21:19:03 --- SCHEDULEREC STATUS END
+12/10/2021 21:19:03 --- SCHEDULEREC OBJECT END DAILY-2100 12/10/2021 21:00:00
+12/10/2021 21:19:03 Scheduled event 'DAILY-2100' completed successfully.
+12/10/2021 21:19:03 Sending results for scheduled event 'DAILY-2100'.
+12/10/2021 21:19:04 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/10/2021 21:19:04 ANS1483I Schedule log pruning started.
+12/10/2021 21:19:04 ANS1484I Schedule log pruning finished successfully.
+12/10/2021 21:19:04 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/10/2021 21:19:04 Querying server for next scheduled event.
+12/10/2021 21:19:04 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/10/2021 21:19:04 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/10/2021 21:19:04   Server Version 8, Release 1, Level 12.100
+12/10/2021 21:19:04   Server date/time: 12/10/2021 21:19:04  Last access: 12/10/2021 21:18:57
+
+12/10/2021 21:19:04 --- SCHEDULEREC QUERY BEGIN
+12/10/2021 21:19:04 --- SCHEDULEREC QUERY END
+12/10/2021 21:19:04 Next operation scheduled:
+12/10/2021 21:19:04 ------------------------------------------------------------
+12/10/2021 21:19:04 Schedule Name:         DAILY-2100
+12/10/2021 21:19:04 Action:                Incremental
+12/10/2021 21:19:04 Objects:
+12/10/2021 21:19:04 Options:               -quiet
+12/10/2021 21:19:04 Server Window Start:   21:00:00 on 12/11/2021
+12/10/2021 21:19:04 ------------------------------------------------------------
+12/10/2021 21:19:04 Scheduler has been stopped.
+
+12/11/2021 01:19:04 Scheduler has been started by Dsmcad.
+12/11/2021 01:19:04 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 01:19:04 Querying server for next scheduled event.
+12/11/2021 01:19:04 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 01:19:05 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 01:19:05   Server Version 8, Release 1, Level 12.100
+12/11/2021 01:19:05   Server date/time: 12/11/2021 01:19:05  Last access: 12/10/2021 21:19:04
+
+12/11/2021 01:19:05 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 01:19:05 --- SCHEDULEREC QUERY END
+12/11/2021 01:19:05 Next operation scheduled:
+12/11/2021 01:19:05 ------------------------------------------------------------
+12/11/2021 01:19:05 Schedule Name:         DAILY-2100
+12/11/2021 01:19:05 Action:                Incremental
+12/11/2021 01:19:05 Objects:
+12/11/2021 01:19:05 Options:               -quiet
+12/11/2021 01:19:05 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 01:19:05 ------------------------------------------------------------
+12/11/2021 01:19:05 Scheduler has been stopped.
+
+12/11/2021 05:19:06 Scheduler has been started by Dsmcad.
+12/11/2021 05:19:06 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 05:19:06 Querying server for next scheduled event.
+12/11/2021 05:19:06 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 05:19:07 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 05:19:07   Server Version 8, Release 1, Level 12.100
+12/11/2021 05:19:07   Server date/time: 12/11/2021 05:19:07  Last access: 12/11/2021 01:19:05
+
+12/11/2021 05:19:07 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 05:19:07 --- SCHEDULEREC QUERY END
+12/11/2021 05:19:07 Next operation scheduled:
+12/11/2021 05:19:07 ------------------------------------------------------------
+12/11/2021 05:19:07 Schedule Name:         DAILY-2100
+12/11/2021 05:19:07 Action:                Incremental
+12/11/2021 05:19:07 Objects:
+12/11/2021 05:19:07 Options:               -quiet
+12/11/2021 05:19:07 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 05:19:07 ------------------------------------------------------------
+12/11/2021 05:19:07 Scheduler has been stopped.
+
+12/11/2021 09:19:07 Scheduler has been started by Dsmcad.
+12/11/2021 09:19:07 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 09:19:07 Querying server for next scheduled event.
+12/11/2021 09:19:07 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 09:19:08 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 09:19:08   Server Version 8, Release 1, Level 12.100
+12/11/2021 09:19:08   Server date/time: 12/11/2021 09:19:08  Last access: 12/11/2021 05:19:07
+
+12/11/2021 09:19:08 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 09:19:08 --- SCHEDULEREC QUERY END
+12/11/2021 09:19:08 Next operation scheduled:
+12/11/2021 09:19:08 ------------------------------------------------------------
+12/11/2021 09:19:08 Schedule Name:         DAILY-2100
+12/11/2021 09:19:08 Action:                Incremental
+12/11/2021 09:19:08 Objects:
+12/11/2021 09:19:08 Options:               -quiet
+12/11/2021 09:19:08 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 09:19:08 ------------------------------------------------------------
+12/11/2021 09:19:08 Scheduler has been stopped.
+
+12/11/2021 13:19:08 Scheduler has been started by Dsmcad.
+12/11/2021 13:19:08 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 13:19:08 Querying server for next scheduled event.
+12/11/2021 13:19:08 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 13:19:08 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 13:19:08   Server Version 8, Release 1, Level 12.100
+12/11/2021 13:19:08   Server date/time: 12/11/2021 13:19:08  Last access: 12/11/2021 09:19:08
+
+12/11/2021 13:19:08 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 13:19:08 --- SCHEDULEREC QUERY END
+12/11/2021 13:19:08 Next operation scheduled:
+12/11/2021 13:19:08 ------------------------------------------------------------
+12/11/2021 13:19:08 Schedule Name:         DAILY-2100
+12/11/2021 13:19:08 Action:                Incremental
+12/11/2021 13:19:08 Objects:
+12/11/2021 13:19:08 Options:               -quiet
+12/11/2021 13:19:08 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 13:19:08 ------------------------------------------------------------
+12/11/2021 13:19:08 Scheduler has been stopped.
+
+12/11/2021 17:19:08 Scheduler has been started by Dsmcad.
+12/11/2021 17:19:08 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 17:19:08 Querying server for next scheduled event.
+12/11/2021 17:19:08 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 17:19:08 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 17:19:08   Server Version 8, Release 1, Level 12.100
+12/11/2021 17:19:08   Server date/time: 12/11/2021 17:19:08  Last access: 12/11/2021 13:19:08
+
+12/11/2021 17:19:08 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 17:19:08 --- SCHEDULEREC QUERY END
+12/11/2021 17:19:08 Next operation scheduled:
+12/11/2021 17:19:08 ------------------------------------------------------------
+12/11/2021 17:19:08 Schedule Name:         DAILY-2100
+12/11/2021 17:19:08 Action:                Incremental
+12/11/2021 17:19:08 Objects:
+12/11/2021 17:19:08 Options:               -quiet
+12/11/2021 17:19:08 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 17:19:08 ------------------------------------------------------------
+12/11/2021 17:19:08 Scheduler has been stopped.
+
+12/11/2021 21:19:08 Scheduler has been started by Dsmcad.
+12/11/2021 21:19:08 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 21:19:08 Querying server for next scheduled event.
+12/11/2021 21:19:08 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 21:19:09 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 21:19:09   Server Version 8, Release 1, Level 12.100
+12/11/2021 21:19:09   Server date/time: 12/11/2021 21:19:09  Last access: 12/11/2021 17:19:08
+
+12/11/2021 21:19:09 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 21:19:09 --- SCHEDULEREC QUERY END
+12/11/2021 21:19:09 Next operation scheduled:
+12/11/2021 21:19:09 ------------------------------------------------------------
+12/11/2021 21:19:09 Schedule Name:         DAILY-2100
+12/11/2021 21:19:09 Action:                Incremental
+12/11/2021 21:19:09 Objects:
+12/11/2021 21:19:09 Options:               -quiet
+12/11/2021 21:19:09 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 21:19:09 ------------------------------------------------------------
+12/11/2021 21:19:09 Scheduler has been stopped.
+12/11/2021 21:43:09 Scheduler has been started by Dsmcad.
+12/11/2021 21:43:09 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 21:43:09 Querying server for next scheduled event.
+12/11/2021 21:43:09 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 21:43:10 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 21:43:10   Server Version 8, Release 1, Level 12.100
+12/11/2021 21:43:10   Server date/time: 12/11/2021 21:43:10  Last access: 12/11/2021 21:19:09
+
+12/11/2021 21:43:10 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 21:43:10 --- SCHEDULEREC QUERY END
+12/11/2021 21:43:10 Next operation scheduled:
+12/11/2021 21:43:10 ------------------------------------------------------------
+12/11/2021 21:43:10 Schedule Name:         DAILY-2100
+12/11/2021 21:43:10 Action:                Incremental
+12/11/2021 21:43:10 Objects:
+12/11/2021 21:43:10 Options:               -quiet
+12/11/2021 21:43:10 Server Window Start:   21:00:00 on 12/11/2021
+12/11/2021 21:43:10 ------------------------------------------------------------
+12/11/2021 21:43:10
+Executing scheduled command now.
+12/11/2021 21:43:10 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/11/2021 21:00:00
+12/11/2021 21:43:10 Incremental backup of volume '/'
+12/11/2021 21:43:10 Incremental backup of volume '/opt'
+12/11/2021 21:43:10 Incremental backup of volume '/db/redis'
+12/11/2021 21:43:10 Incremental backup of volume '/local'
+12/11/2021 21:43:10 Incremental backup of volume '/home'
+12/11/2021 21:43:10 Incremental backup of volume '/var'
+12/11/2021 21:43:10 Incremental backup of volume '/boot'
+12/11/2021 21:43:10 Incremental backup of volume '/var/log'
+12/11/2021 21:43:15 Successful incremental backup of '/boot'
+
+12/11/2021 21:43:16 Successful incremental backup of '/opt'
+
+12/11/2021 21:43:17 Successful incremental backup of '/db/redis'
+
+12/11/2021 21:43:17 Successful incremental backup of '/local'
+
+12/11/2021 21:43:17 Successful incremental backup of '/home'
+
+12/11/2021 21:43:18 Successful incremental backup of '/'
+
+12/11/2021 21:43:18 Successful incremental backup of '/var'
+
+12/11/2021 21:43:22 Successful incremental backup of '/var/log'
+
+12/11/2021 21:43:22 --- SCHEDULEREC STATUS BEGIN
+12/11/2021 21:43:22 Total number of objects inspected:      100,542
+12/11/2021 21:43:22 Total number of objects backed up:          142
+12/11/2021 21:43:22 Total number of objects updated:              0
+12/11/2021 21:43:22 Total number of objects rebound:              0
+12/11/2021 21:43:22 Total number of objects deleted:              0
+12/11/2021 21:43:22 Total number of objects expired:              1
+12/11/2021 21:43:22 Total number of objects failed:               0
+12/11/2021 21:43:22 Total number of objects encrypted:            0
+12/11/2021 21:43:22 Total number of objects grew:                 0
+12/11/2021 21:43:22 Total number of retries:                     14
+12/11/2021 21:43:22 Total number of bytes inspected:           3.91 GB
+12/11/2021 21:43:22 Total number of bytes transferred:         1.01 GB
+12/11/2021 21:43:22 Data transfer time:                        9.06 sec
+12/11/2021 21:43:22 Network data transfer rate:          117,072.67 KB/sec
+12/11/2021 21:43:22 Aggregate data transfer rate:         91,873.02 KB/sec
+12/11/2021 21:43:22 Objects compressed by:                        0%
+12/11/2021 21:43:22 Total data reduction ratio:               74.14%
+12/11/2021 21:43:22 Elapsed processing time:               00:00:11
+12/11/2021 21:43:22 --- SCHEDULEREC STATUS END
+12/11/2021 21:43:22 --- SCHEDULEREC OBJECT END DAILY-2100 12/11/2021 21:00:00
+12/11/2021 21:43:22 Scheduled event 'DAILY-2100' completed successfully.
+12/11/2021 21:43:22 Sending results for scheduled event 'DAILY-2100'.
+12/11/2021 21:43:22 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/11/2021 21:43:22 ANS1483I Schedule log pruning started.
+12/11/2021 21:43:22 ANS1484I Schedule log pruning finished successfully.
+12/11/2021 21:43:22 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/11/2021 21:43:22 Querying server for next scheduled event.
+12/11/2021 21:43:22 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/11/2021 21:43:22 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/11/2021 21:43:22   Server Version 8, Release 1, Level 12.100
+12/11/2021 21:43:22   Server date/time: 12/11/2021 21:43:22  Last access: 12/11/2021 21:43:17
+
+12/11/2021 21:43:22 --- SCHEDULEREC QUERY BEGIN
+12/11/2021 21:43:22 --- SCHEDULEREC QUERY END
+12/11/2021 21:43:22 Next operation scheduled:
+12/11/2021 21:43:22 ------------------------------------------------------------
+12/11/2021 21:43:22 Schedule Name:         DAILY-2100
+12/11/2021 21:43:22 Action:                Incremental
+12/11/2021 21:43:22 Objects:
+12/11/2021 21:43:22 Options:               -quiet
+12/11/2021 21:43:22 Server Window Start:   21:00:00 on 12/12/2021
+12/11/2021 21:43:22 ------------------------------------------------------------
+12/11/2021 21:43:22 Scheduler has been stopped.
+
+12/12/2021 01:43:22 Scheduler has been started by Dsmcad.
+12/12/2021 01:43:22 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 01:43:22 Querying server for next scheduled event.
+12/12/2021 01:43:22 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 01:43:22 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 01:43:22   Server Version 8, Release 1, Level 12.100
+12/12/2021 01:43:22   Server date/time: 12/12/2021 01:43:22  Last access: 12/11/2021 21:43:22
+
+12/12/2021 01:43:23 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 01:43:23 --- SCHEDULEREC QUERY END
+12/12/2021 01:43:23 Next operation scheduled:
+12/12/2021 01:43:23 ------------------------------------------------------------
+12/12/2021 01:43:23 Schedule Name:         DAILY-2100
+12/12/2021 01:43:23 Action:                Incremental
+12/12/2021 01:43:23 Objects:
+12/12/2021 01:43:23 Options:               -quiet
+12/12/2021 01:43:23 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 01:43:23 ------------------------------------------------------------
+12/12/2021 01:43:23 Scheduler has been stopped.
+
+12/12/2021 05:43:23 Scheduler has been started by Dsmcad.
+12/12/2021 05:43:23 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 05:43:23 Querying server for next scheduled event.
+12/12/2021 05:43:23 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 05:43:24 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 05:43:24   Server Version 8, Release 1, Level 12.100
+12/12/2021 05:43:24   Server date/time: 12/12/2021 05:43:24  Last access: 12/12/2021 01:43:22
+
+12/12/2021 05:43:24 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 05:43:24 --- SCHEDULEREC QUERY END
+12/12/2021 05:43:24 Next operation scheduled:
+12/12/2021 05:43:24 ------------------------------------------------------------
+12/12/2021 05:43:24 Schedule Name:         DAILY-2100
+12/12/2021 05:43:24 Action:                Incremental
+12/12/2021 05:43:24 Objects:
+12/12/2021 05:43:24 Options:               -quiet
+12/12/2021 05:43:24 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 05:43:24 ------------------------------------------------------------
+12/12/2021 05:43:24 Scheduler has been stopped.
+
+12/12/2021 09:43:24 Scheduler has been started by Dsmcad.
+12/12/2021 09:43:24 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 09:43:24 Querying server for next scheduled event.
+12/12/2021 09:43:24 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 09:43:26 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 09:43:26   Server Version 8, Release 1, Level 12.100
+12/12/2021 09:43:26   Server date/time: 12/12/2021 09:43:25  Last access: 12/12/2021 05:43:24
+
+12/12/2021 09:43:26 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 09:43:26 --- SCHEDULEREC QUERY END
+12/12/2021 09:43:26 Next operation scheduled:
+12/12/2021 09:43:26 ------------------------------------------------------------
+12/12/2021 09:43:26 Schedule Name:         DAILY-2100
+12/12/2021 09:43:26 Action:                Incremental
+12/12/2021 09:43:26 Objects:
+12/12/2021 09:43:26 Options:               -quiet
+12/12/2021 09:43:26 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 09:43:26 ------------------------------------------------------------
+12/12/2021 09:43:26 Scheduler has been stopped.
+
+12/12/2021 13:43:27 Scheduler has been started by Dsmcad.
+12/12/2021 13:43:27 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 13:43:27 Querying server for next scheduled event.
+12/12/2021 13:43:27 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 13:43:27 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 13:43:27   Server Version 8, Release 1, Level 12.100
+12/12/2021 13:43:27   Server date/time: 12/12/2021 13:43:27  Last access: 12/12/2021 09:43:26
+
+12/12/2021 13:43:27 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 13:43:27 --- SCHEDULEREC QUERY END
+12/12/2021 13:43:27 Next operation scheduled:
+12/12/2021 13:43:27 ------------------------------------------------------------
+12/12/2021 13:43:27 Schedule Name:         DAILY-2100
+12/12/2021 13:43:27 Action:                Incremental
+12/12/2021 13:43:27 Objects:
+12/12/2021 13:43:27 Options:               -quiet
+12/12/2021 13:43:27 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 13:43:27 ------------------------------------------------------------
+12/12/2021 13:43:27 Scheduler has been stopped.
+
+12/12/2021 17:43:27 Scheduler has been started by Dsmcad.
+12/12/2021 17:43:27 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 17:43:27 Querying server for next scheduled event.
+12/12/2021 17:43:27 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 17:43:28 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 17:43:28   Server Version 8, Release 1, Level 12.100
+12/12/2021 17:43:28   Server date/time: 12/12/2021 17:43:28  Last access: 12/12/2021 13:43:27
+
+12/12/2021 17:43:28 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 17:43:28 --- SCHEDULEREC QUERY END
+12/12/2021 17:43:28 Next operation scheduled:
+12/12/2021 17:43:28 ------------------------------------------------------------
+12/12/2021 17:43:28 Schedule Name:         DAILY-2100
+12/12/2021 17:43:28 Action:                Incremental
+12/12/2021 17:43:28 Objects:
+12/12/2021 17:43:28 Options:               -quiet
+12/12/2021 17:43:28 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 17:43:28 ------------------------------------------------------------
+12/12/2021 17:43:28 Scheduler has been stopped.
+
+12/12/2021 21:41:28 Scheduler has been started by Dsmcad.
+12/12/2021 21:41:28 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 21:41:28 Querying server for next scheduled event.
+12/12/2021 21:41:28 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 21:41:29 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 21:41:29   Server Version 8, Release 1, Level 12.100
+12/12/2021 21:41:29   Server date/time: 12/12/2021 21:41:29  Last access: 12/12/2021 17:43:28
+
+12/12/2021 21:41:30 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 21:41:30 --- SCHEDULEREC QUERY END
+12/12/2021 21:41:30 Next operation scheduled:
+12/12/2021 21:41:30 ------------------------------------------------------------
+12/12/2021 21:41:30 Schedule Name:         DAILY-2100
+12/12/2021 21:41:30 Action:                Incremental
+12/12/2021 21:41:30 Objects:
+12/12/2021 21:41:30 Options:               -quiet
+12/12/2021 21:41:30 Server Window Start:   21:00:00 on 12/12/2021
+12/12/2021 21:41:30 ------------------------------------------------------------
+12/12/2021 21:41:30
+Executing scheduled command now.
+12/12/2021 21:41:30 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/12/2021 21:00:00
+12/12/2021 21:41:30 Incremental backup of volume '/'
+12/12/2021 21:41:30 Incremental backup of volume '/opt'
+12/12/2021 21:41:30 Incremental backup of volume '/db/redis'
+12/12/2021 21:41:30 Incremental backup of volume '/local'
+12/12/2021 21:41:30 Incremental backup of volume '/home'
+12/12/2021 21:41:30 Incremental backup of volume '/var'
+12/12/2021 21:41:30 Incremental backup of volume '/boot'
+12/12/2021 21:41:30 Incremental backup of volume '/var/log'
+12/12/2021 21:41:35 Successful incremental backup of '/boot'
+
+12/12/2021 21:41:36 Successful incremental backup of '/opt'
+
+12/12/2021 21:41:37 Successful incremental backup of '/db/redis'
+
+12/12/2021 21:41:37 Successful incremental backup of '/local'
+
+12/12/2021 21:41:38 Successful incremental backup of '/var'
+
+12/12/2021 21:41:38 Successful incremental backup of '/'
+
+12/12/2021 21:41:38 Successful incremental backup of '/home'
+
+12/12/2021 21:41:42 Successful incremental backup of '/var/log'
+
+12/12/2021 21:41:42 --- SCHEDULEREC STATUS BEGIN
+12/12/2021 21:41:42 Total number of objects inspected:      100,556
+12/12/2021 21:41:42 Total number of objects backed up:          111
+12/12/2021 21:41:42 Total number of objects updated:              0
+12/12/2021 21:41:42 Total number of objects rebound:              0
+12/12/2021 21:41:42 Total number of objects deleted:              0
+12/12/2021 21:41:42 Total number of objects expired:              0
+12/12/2021 21:41:42 Total number of objects failed:               0
+12/12/2021 21:41:42 Total number of objects encrypted:            0
+12/12/2021 21:41:42 Total number of objects grew:                 0
+12/12/2021 21:41:42 Total number of retries:                     13
+12/12/2021 21:41:42 Total number of bytes inspected:           3.92 GB
+12/12/2021 21:41:42 Total number of bytes transferred:     1,008.11 MB
+12/12/2021 21:41:42 Data transfer time:                        9.89 sec
+12/12/2021 21:41:42 Network data transfer rate:          104,314.49 KB/sec
+12/12/2021 21:41:42 Aggregate data transfer rate:         82,848.20 KB/sec
+12/12/2021 21:41:42 Objects compressed by:                        0%
+12/12/2021 21:41:42 Total data reduction ratio:               74.87%
+12/12/2021 21:41:42 Elapsed processing time:               00:00:12
+12/12/2021 21:41:42 --- SCHEDULEREC STATUS END
+12/12/2021 21:41:42 --- SCHEDULEREC OBJECT END DAILY-2100 12/12/2021 21:00:00
+12/12/2021 21:41:42 Scheduled event 'DAILY-2100' completed successfully.
+12/12/2021 21:41:42 Sending results for scheduled event 'DAILY-2100'.
+12/12/2021 21:41:42 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/12/2021 21:41:42 ANS1483I Schedule log pruning started.
+12/12/2021 21:41:42 ANS1484I Schedule log pruning finished successfully.
+12/12/2021 21:41:42 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/12/2021 21:41:42 Querying server for next scheduled event.
+12/12/2021 21:41:42 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/12/2021 21:41:42 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/12/2021 21:41:42   Server Version 8, Release 1, Level 12.100
+12/12/2021 21:41:42   Server date/time: 12/12/2021 21:41:42  Last access: 12/12/2021 21:41:36
+
+12/12/2021 21:41:42 --- SCHEDULEREC QUERY BEGIN
+12/12/2021 21:41:43 --- SCHEDULEREC QUERY END
+12/12/2021 21:41:43 Next operation scheduled:
+12/12/2021 21:41:43 ------------------------------------------------------------
+12/12/2021 21:41:43 Schedule Name:         DAILY-2100
+12/12/2021 21:41:43 Action:                Incremental
+12/12/2021 21:41:43 Objects:
+12/12/2021 21:41:43 Options:               -quiet
+12/12/2021 21:41:43 Server Window Start:   21:00:00 on 12/13/2021
+12/12/2021 21:41:43 ------------------------------------------------------------
+12/12/2021 21:41:43 Scheduler has been stopped.
+
+12/13/2021 01:41:44 Scheduler has been started by Dsmcad.
+12/13/2021 01:41:44 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 01:41:44 Querying server for next scheduled event.
+12/13/2021 01:41:44 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 01:41:44 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 01:41:44   Server Version 8, Release 1, Level 12.100
+12/13/2021 01:41:44   Server date/time: 12/13/2021 01:41:44  Last access: 12/12/2021 21:41:42
+
+12/13/2021 01:41:44 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 01:41:44 --- SCHEDULEREC QUERY END
+12/13/2021 01:41:44 Next operation scheduled:
+12/13/2021 01:41:44 ------------------------------------------------------------
+12/13/2021 01:41:44 Schedule Name:         DAILY-2100
+12/13/2021 01:41:44 Action:                Incremental
+12/13/2021 01:41:44 Objects:
+12/13/2021 01:41:44 Options:               -quiet
+12/13/2021 01:41:44 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 01:41:44 ------------------------------------------------------------
+12/13/2021 01:41:44 Scheduler has been stopped.
+
+12/13/2021 05:41:44 Scheduler has been started by Dsmcad.
+12/13/2021 05:41:44 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 05:41:44 Querying server for next scheduled event.
+12/13/2021 05:41:44 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 05:41:45 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 05:41:45   Server Version 8, Release 1, Level 12.100
+12/13/2021 05:41:45   Server date/time: 12/13/2021 05:41:45  Last access: 12/13/2021 01:41:44
+
+12/13/2021 05:41:45 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 05:41:45 --- SCHEDULEREC QUERY END
+12/13/2021 05:41:45 Next operation scheduled:
+12/13/2021 05:41:45 ------------------------------------------------------------
+12/13/2021 05:41:45 Schedule Name:         DAILY-2100
+12/13/2021 05:41:45 Action:                Incremental
+12/13/2021 05:41:45 Objects:
+12/13/2021 05:41:45 Options:               -quiet
+12/13/2021 05:41:45 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 05:41:45 ------------------------------------------------------------
+12/13/2021 05:41:45 Scheduler has been stopped.
+
+12/13/2021 09:41:45 Scheduler has been started by Dsmcad.
+12/13/2021 09:41:45 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 09:41:45 Querying server for next scheduled event.
+12/13/2021 09:41:45 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 09:41:46 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 09:41:46   Server Version 8, Release 1, Level 12.100
+12/13/2021 09:41:46   Server date/time: 12/13/2021 09:41:46  Last access: 12/13/2021 05:41:45
+
+12/13/2021 09:41:46 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 09:41:46 --- SCHEDULEREC QUERY END
+12/13/2021 09:41:46 Next operation scheduled:
+12/13/2021 09:41:46 ------------------------------------------------------------
+12/13/2021 09:41:46 Schedule Name:         DAILY-2100
+12/13/2021 09:41:46 Action:                Incremental
+12/13/2021 09:41:46 Objects:
+12/13/2021 09:41:46 Options:               -quiet
+12/13/2021 09:41:46 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 09:41:46 ------------------------------------------------------------
+12/13/2021 09:41:46 Scheduler has been stopped.
+
+12/13/2021 13:41:46 Scheduler has been started by Dsmcad.
+12/13/2021 13:41:46 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 13:41:46 Querying server for next scheduled event.
+12/13/2021 13:41:46 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 13:41:47 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 13:41:47   Server Version 8, Release 1, Level 12.100
+12/13/2021 13:41:47   Server date/time: 12/13/2021 13:41:47  Last access: 12/13/2021 09:41:46
+
+12/13/2021 13:41:47 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 13:41:47 --- SCHEDULEREC QUERY END
+12/13/2021 13:41:47 Next operation scheduled:
+12/13/2021 13:41:47 ------------------------------------------------------------
+12/13/2021 13:41:47 Schedule Name:         DAILY-2100
+12/13/2021 13:41:47 Action:                Incremental
+12/13/2021 13:41:47 Objects:
+12/13/2021 13:41:47 Options:               -quiet
+12/13/2021 13:41:47 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 13:41:47 ------------------------------------------------------------
+12/13/2021 13:41:47 Scheduler has been stopped.
+
+12/13/2021 17:41:47 Scheduler has been started by Dsmcad.
+12/13/2021 17:41:47 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 17:41:47 Querying server for next scheduled event.
+12/13/2021 17:41:47 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 17:41:48 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 17:41:48   Server Version 8, Release 1, Level 12.100
+12/13/2021 17:41:48   Server date/time: 12/13/2021 17:41:48  Last access: 12/13/2021 13:41:47
+
+12/13/2021 17:41:48 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 17:41:48 --- SCHEDULEREC QUERY END
+12/13/2021 17:41:48 Next operation scheduled:
+12/13/2021 17:41:48 ------------------------------------------------------------
+12/13/2021 17:41:48 Schedule Name:         DAILY-2100
+12/13/2021 17:41:48 Action:                Incremental
+12/13/2021 17:41:48 Objects:
+12/13/2021 17:41:48 Options:               -quiet
+12/13/2021 17:41:48 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 17:41:48 ------------------------------------------------------------
+12/13/2021 17:41:48 Scheduler has been stopped.
+
+12/13/2021 21:19:48 Scheduler has been started by Dsmcad.
+12/13/2021 21:19:48 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 21:19:48 Querying server for next scheduled event.
+12/13/2021 21:19:48 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 21:19:49 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 21:19:49   Server Version 8, Release 1, Level 12.100
+12/13/2021 21:19:49   Server date/time: 12/13/2021 21:19:49  Last access: 12/13/2021 17:41:48
+
+12/13/2021 21:19:49 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 21:19:49 --- SCHEDULEREC QUERY END
+12/13/2021 21:19:49 Next operation scheduled:
+12/13/2021 21:19:49 ------------------------------------------------------------
+12/13/2021 21:19:49 Schedule Name:         DAILY-2100
+12/13/2021 21:19:49 Action:                Incremental
+12/13/2021 21:19:49 Objects:
+12/13/2021 21:19:49 Options:               -quiet
+12/13/2021 21:19:49 Server Window Start:   21:00:00 on 12/13/2021
+12/13/2021 21:19:49 ------------------------------------------------------------
+12/13/2021 21:19:49
+Executing scheduled command now.
+12/13/2021 21:19:49 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/13/2021 21:00:00
+12/13/2021 21:19:50 Incremental backup of volume '/'
+12/13/2021 21:19:50 Incremental backup of volume '/opt'
+12/13/2021 21:19:50 Incremental backup of volume '/db/redis'
+12/13/2021 21:19:50 Incremental backup of volume '/local'
+12/13/2021 21:19:50 Incremental backup of volume '/home'
+12/13/2021 21:19:50 Incremental backup of volume '/var'
+12/13/2021 21:19:50 Incremental backup of volume '/boot'
+12/13/2021 21:19:50 Incremental backup of volume '/var/log'
+12/13/2021 21:19:56 Successful incremental backup of '/boot'
+
+12/13/2021 21:19:56 Successful incremental backup of '/opt'
+
+12/13/2021 21:19:57 Successful incremental backup of '/local'
+
+12/13/2021 21:19:58 Successful incremental backup of '/db/redis'
+
+12/13/2021 21:19:58 Successful incremental backup of '/'
+
+12/13/2021 21:19:58 Successful incremental backup of '/home'
+
+12/13/2021 21:19:58 Successful incremental backup of '/var'
+
+12/13/2021 21:20:01 Successful incremental backup of '/var/log'
+
+12/13/2021 21:20:01 --- SCHEDULEREC STATUS BEGIN
+12/13/2021 21:20:01 Total number of objects inspected:      100,578
+12/13/2021 21:20:01 Total number of objects backed up:          163
+12/13/2021 21:20:01 Total number of objects updated:              0
+12/13/2021 21:20:01 Total number of objects rebound:              0
+12/13/2021 21:20:01 Total number of objects deleted:              0
+12/13/2021 21:20:01 Total number of objects expired:              3
+12/13/2021 21:20:01 Total number of objects failed:               0
+12/13/2021 21:20:01 Total number of objects encrypted:            0
+12/13/2021 21:20:01 Total number of objects grew:                 0
+12/13/2021 21:20:01 Total number of retries:                     14
+12/13/2021 21:20:01 Total number of bytes inspected:           3.91 GB
+12/13/2021 21:20:01 Total number of bytes transferred:         1.03 GB
+12/13/2021 21:20:01 Data transfer time:                        9.52 sec
+12/13/2021 21:20:01 Network data transfer rate:          113,385.82 KB/sec
+12/13/2021 21:20:01 Aggregate data transfer rate:         94,333.87 KB/sec
+12/13/2021 21:20:01 Objects compressed by:                        0%
+12/13/2021 21:20:01 Total data reduction ratio:               73.68%
+12/13/2021 21:20:01 Elapsed processing time:               00:00:11
+12/13/2021 21:20:01 --- SCHEDULEREC STATUS END
+12/13/2021 21:20:01 --- SCHEDULEREC OBJECT END DAILY-2100 12/13/2021 21:00:00
+12/13/2021 21:20:01 Scheduled event 'DAILY-2100' completed successfully.
+12/13/2021 21:20:01 Sending results for scheduled event 'DAILY-2100'.
+12/13/2021 21:20:01 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/13/2021 21:20:01 ANS1483I Schedule log pruning started.
+12/13/2021 21:20:01 ANS1484I Schedule log pruning finished successfully.
+12/13/2021 21:20:01 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/13/2021 21:20:01 Querying server for next scheduled event.
+12/13/2021 21:20:01 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/13/2021 21:20:01 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/13/2021 21:20:01   Server Version 8, Release 1, Level 12.100
+12/13/2021 21:20:01   Server date/time: 12/13/2021 21:20:01  Last access: 12/13/2021 21:19:56
+
+12/13/2021 21:20:01 --- SCHEDULEREC QUERY BEGIN
+12/13/2021 21:20:01 --- SCHEDULEREC QUERY END
+12/13/2021 21:20:01 Next operation scheduled:
+12/13/2021 21:20:01 ------------------------------------------------------------
+12/13/2021 21:20:01 Schedule Name:         DAILY-2100
+12/13/2021 21:20:01 Action:                Incremental
+12/13/2021 21:20:01 Objects:
+12/13/2021 21:20:01 Options:               -quiet
+12/13/2021 21:20:01 Server Window Start:   21:00:00 on 12/14/2021
+12/13/2021 21:20:01 ------------------------------------------------------------
+12/13/2021 21:20:01 Scheduler has been stopped.
+
+12/14/2021 01:20:02 Scheduler has been started by Dsmcad.
+12/14/2021 01:20:02 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 01:20:02 Querying server for next scheduled event.
+12/14/2021 01:20:02 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 01:20:11 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 01:20:11   Server Version 8, Release 1, Level 12.100
+12/14/2021 01:20:11   Server date/time: 12/14/2021 01:20:11  Last access: 12/13/2021 21:20:01
+
+12/14/2021 01:20:11 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 01:20:11 --- SCHEDULEREC QUERY END
+12/14/2021 01:20:11 Next operation scheduled:
+12/14/2021 01:20:11 ------------------------------------------------------------
+12/14/2021 01:20:11 Schedule Name:         DAILY-2100
+12/14/2021 01:20:11 Action:                Incremental
+12/14/2021 01:20:11 Objects:
+12/14/2021 01:20:11 Options:               -quiet
+12/14/2021 01:20:11 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 01:20:11 ------------------------------------------------------------
+12/14/2021 01:20:11 Scheduler has been stopped.
+
+12/14/2021 05:20:11 Scheduler has been started by Dsmcad.
+12/14/2021 05:20:11 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 05:20:11 Querying server for next scheduled event.
+12/14/2021 05:20:11 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 05:20:11 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 05:20:11   Server Version 8, Release 1, Level 12.100
+12/14/2021 05:20:11   Server date/time: 12/14/2021 05:20:11  Last access: 12/14/2021 01:20:11
+
+12/14/2021 05:20:11 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 05:20:11 --- SCHEDULEREC QUERY END
+12/14/2021 05:20:11 Next operation scheduled:
+12/14/2021 05:20:11 ------------------------------------------------------------
+12/14/2021 05:20:11 Schedule Name:         DAILY-2100
+12/14/2021 05:20:11 Action:                Incremental
+12/14/2021 05:20:11 Objects:
+12/14/2021 05:20:11 Options:               -quiet
+12/14/2021 05:20:11 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 05:20:11 ------------------------------------------------------------
+12/14/2021 05:20:11 Scheduler has been stopped.
+
+12/14/2021 09:20:11 Scheduler has been started by Dsmcad.
+12/14/2021 09:20:11 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 09:20:11 Querying server for next scheduled event.
+12/14/2021 09:20:11 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 09:20:12 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 09:20:12   Server Version 8, Release 1, Level 12.100
+12/14/2021 09:20:12   Server date/time: 12/14/2021 09:20:12  Last access: 12/14/2021 05:20:11
+
+12/14/2021 09:20:12 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 09:20:12 --- SCHEDULEREC QUERY END
+12/14/2021 09:20:12 Next operation scheduled:
+12/14/2021 09:20:12 ------------------------------------------------------------
+12/14/2021 09:20:12 Schedule Name:         DAILY-2100
+12/14/2021 09:20:12 Action:                Incremental
+12/14/2021 09:20:12 Objects:
+12/14/2021 09:20:12 Options:               -quiet
+12/14/2021 09:20:12 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 09:20:12 ------------------------------------------------------------
+12/14/2021 09:20:12 Scheduler has been stopped.
+
+12/14/2021 13:20:12 Scheduler has been started by Dsmcad.
+12/14/2021 13:20:12 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 13:20:12 Querying server for next scheduled event.
+12/14/2021 13:20:12 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 13:20:13 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 13:20:13   Server Version 8, Release 1, Level 12.100
+12/14/2021 13:20:13   Server date/time: 12/14/2021 13:20:13  Last access: 12/14/2021 09:20:12
+
+12/14/2021 13:20:13 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 13:20:13 --- SCHEDULEREC QUERY END
+12/14/2021 13:20:13 Next operation scheduled:
+12/14/2021 13:20:13 ------------------------------------------------------------
+12/14/2021 13:20:13 Schedule Name:         DAILY-2100
+12/14/2021 13:20:13 Action:                Incremental
+12/14/2021 13:20:13 Objects:
+12/14/2021 13:20:13 Options:               -quiet
+12/14/2021 13:20:13 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 13:20:13 ------------------------------------------------------------
+12/14/2021 13:20:13 Scheduler has been stopped.
+
+12/14/2021 17:20:13 Scheduler has been started by Dsmcad.
+12/14/2021 17:20:13 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 17:20:13 Querying server for next scheduled event.
+12/14/2021 17:20:13 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 17:20:13 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 17:20:13   Server Version 8, Release 1, Level 12.100
+12/14/2021 17:20:13   Server date/time: 12/14/2021 17:20:13  Last access: 12/14/2021 13:20:13
+
+12/14/2021 17:20:13 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 17:20:13 --- SCHEDULEREC QUERY END
+12/14/2021 17:20:13 Next operation scheduled:
+12/14/2021 17:20:13 ------------------------------------------------------------
+12/14/2021 17:20:13 Schedule Name:         DAILY-2100
+12/14/2021 17:20:13 Action:                Incremental
+12/14/2021 17:20:13 Objects:
+12/14/2021 17:20:13 Options:               -quiet
+12/14/2021 17:20:13 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 17:20:13 ------------------------------------------------------------
+12/14/2021 17:20:13 Scheduler has been stopped.
+
+12/14/2021 21:20:13 Scheduler has been started by Dsmcad.
+12/14/2021 21:20:13 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 21:20:13 Querying server for next scheduled event.
+12/14/2021 21:20:13 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 21:20:14 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 21:20:14   Server Version 8, Release 1, Level 12.100
+12/14/2021 21:20:14   Server date/time: 12/14/2021 21:20:14  Last access: 12/14/2021 17:20:13
+
+12/14/2021 21:20:14 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 21:20:14 --- SCHEDULEREC QUERY END
+12/14/2021 21:20:14 Next operation scheduled:
+12/14/2021 21:20:14 ------------------------------------------------------------
+12/14/2021 21:20:14 Schedule Name:         DAILY-2100
+12/14/2021 21:20:14 Action:                Incremental
+12/14/2021 21:20:14 Objects:
+12/14/2021 21:20:14 Options:               -quiet
+12/14/2021 21:20:14 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 21:20:14 ------------------------------------------------------------
+12/14/2021 21:20:14 Scheduler has been stopped.
+
+12/14/2021 21:45:14 Scheduler has been started by Dsmcad.
+12/14/2021 21:45:14 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 21:45:14 Querying server for next scheduled event.
+12/14/2021 21:45:14 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 21:45:15 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 21:45:15   Server Version 8, Release 1, Level 12.100
+12/14/2021 21:45:15   Server date/time: 12/14/2021 21:45:15  Last access: 12/14/2021 21:20:14
+
+12/14/2021 21:45:15 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 21:45:15 --- SCHEDULEREC QUERY END
+12/14/2021 21:45:15 Next operation scheduled:
+12/14/2021 21:45:15 ------------------------------------------------------------
+12/14/2021 21:45:15 Schedule Name:         DAILY-2100
+12/14/2021 21:45:15 Action:                Incremental
+12/14/2021 21:45:15 Objects:
+12/14/2021 21:45:15 Options:               -quiet
+12/14/2021 21:45:15 Server Window Start:   21:00:00 on 12/14/2021
+12/14/2021 21:45:15 ------------------------------------------------------------
+12/14/2021 21:45:15
+Executing scheduled command now.
+12/14/2021 21:45:15 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/14/2021 21:00:00
+12/14/2021 21:45:15 Incremental backup of volume '/'
+12/14/2021 21:45:15 Incremental backup of volume '/opt'
+12/14/2021 21:45:15 Incremental backup of volume '/db/redis'
+12/14/2021 21:45:15 Incremental backup of volume '/local'
+12/14/2021 21:45:15 Incremental backup of volume '/home'
+12/14/2021 21:45:15 Incremental backup of volume '/var'
+12/14/2021 21:45:15 Incremental backup of volume '/boot'
+12/14/2021 21:45:15 Incremental backup of volume '/var/log'
+12/14/2021 21:45:21 Successful incremental backup of '/boot'
+
+12/14/2021 21:45:21 Successful incremental backup of '/opt'
+
+12/14/2021 21:45:22 Successful incremental backup of '/db/redis'
+
+12/14/2021 21:45:22 Successful incremental backup of '/local'
+
+12/14/2021 21:45:22 Successful incremental backup of '/home'
+
+12/14/2021 21:45:22 Successful incremental backup of '/var'
+
+12/14/2021 21:45:23 Successful incremental backup of '/'
+
+12/14/2021 21:45:30 Successful incremental backup of '/var/log'
+
+12/14/2021 21:45:30 --- SCHEDULEREC STATUS BEGIN
+12/14/2021 21:45:30 Total number of objects inspected:      100,590
+12/14/2021 21:45:30 Total number of objects backed up:          114
+12/14/2021 21:45:30 Total number of objects updated:              0
+12/14/2021 21:45:30 Total number of objects rebound:              0
+12/14/2021 21:45:30 Total number of objects deleted:              0
+12/14/2021 21:45:30 Total number of objects expired:              0
+12/14/2021 21:45:30 Total number of objects failed:               0
+12/14/2021 21:45:30 Total number of objects encrypted:            0
+12/14/2021 21:45:30 Total number of objects grew:                 0
+12/14/2021 21:45:30 Total number of retries:                     13
+12/14/2021 21:45:30 Total number of bytes inspected:           3.92 GB
+12/14/2021 21:45:30 Total number of bytes transferred:     1,023.92 MB
+12/14/2021 21:45:30 Data transfer time:                       13.18 sec
+12/14/2021 21:45:30 Network data transfer rate:           79,543.51 KB/sec
+12/14/2021 21:45:30 Aggregate data transfer rate:         68,928.54 KB/sec
+12/14/2021 21:45:30 Objects compressed by:                        0%
+12/14/2021 21:45:30 Total data reduction ratio:               74.47%
+12/14/2021 21:45:30 Elapsed processing time:               00:00:15
+12/14/2021 21:45:30 --- SCHEDULEREC STATUS END
+12/14/2021 21:45:30 --- SCHEDULEREC OBJECT END DAILY-2100 12/14/2021 21:00:00
+12/14/2021 21:45:30 Scheduled event 'DAILY-2100' completed successfully.
+12/14/2021 21:45:30 Sending results for scheduled event 'DAILY-2100'.
+12/14/2021 21:45:30 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/14/2021 21:45:30 ANS1483I Schedule log pruning started.
+12/14/2021 21:45:30 ANS1484I Schedule log pruning finished successfully.
+12/14/2021 21:45:30 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/14/2021 21:45:30 Querying server for next scheduled event.
+12/14/2021 21:45:30 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/14/2021 21:45:31 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/14/2021 21:45:31   Server Version 8, Release 1, Level 12.100
+12/14/2021 21:45:31   Server date/time: 12/14/2021 21:45:31  Last access: 12/14/2021 21:45:21
+
+12/14/2021 21:45:31 --- SCHEDULEREC QUERY BEGIN
+12/14/2021 21:45:31 --- SCHEDULEREC QUERY END
+12/14/2021 21:45:31 Next operation scheduled:
+12/14/2021 21:45:31 ------------------------------------------------------------
+12/14/2021 21:45:31 Schedule Name:         DAILY-2100
+12/14/2021 21:45:31 Action:                Incremental
+12/14/2021 21:45:31 Objects:
+12/14/2021 21:45:31 Options:               -quiet
+12/14/2021 21:45:31 Server Window Start:   21:00:00 on 12/15/2021
+12/14/2021 21:45:31 ------------------------------------------------------------
+12/14/2021 21:45:31 Scheduler has been stopped.
+
+12/15/2021 01:45:31 Scheduler has been started by Dsmcad.
+12/15/2021 01:45:31 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 01:45:31 Querying server for next scheduled event.
+12/15/2021 01:45:31 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 01:45:32 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 01:45:32   Server Version 8, Release 1, Level 12.100
+12/15/2021 01:45:32   Server date/time: 12/15/2021 01:45:32  Last access: 12/14/2021 21:45:31
+
+12/15/2021 01:45:32 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 01:45:32 --- SCHEDULEREC QUERY END
+12/15/2021 01:45:32 Next operation scheduled:
+12/15/2021 01:45:32 ------------------------------------------------------------
+12/15/2021 01:45:32 Schedule Name:         DAILY-2100
+12/15/2021 01:45:32 Action:                Incremental
+12/15/2021 01:45:32 Objects:
+12/15/2021 01:45:32 Options:               -quiet
+12/15/2021 01:45:32 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 01:45:32 ------------------------------------------------------------
+12/15/2021 01:45:32 Scheduler has been stopped.
+
+12/15/2021 05:45:32 Scheduler has been started by Dsmcad.
+12/15/2021 05:45:32 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 05:45:32 Querying server for next scheduled event.
+12/15/2021 05:45:32 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 05:45:33 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 05:45:33   Server Version 8, Release 1, Level 12.100
+12/15/2021 05:45:33   Server date/time: 12/15/2021 05:45:33  Last access: 12/15/2021 01:45:32
+
+12/15/2021 05:45:33 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 05:45:33 --- SCHEDULEREC QUERY END
+12/15/2021 05:45:33 Next operation scheduled:
+12/15/2021 05:45:33 ------------------------------------------------------------
+12/15/2021 05:45:33 Schedule Name:         DAILY-2100
+12/15/2021 05:45:33 Action:                Incremental
+12/15/2021 05:45:33 Objects:
+12/15/2021 05:45:33 Options:               -quiet
+12/15/2021 05:45:33 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 05:45:33 ------------------------------------------------------------
+12/15/2021 05:45:33 Scheduler has been stopped.
+
+12/15/2021 09:45:33 Scheduler has been started by Dsmcad.
+12/15/2021 09:45:33 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 09:45:33 Querying server for next scheduled event.
+12/15/2021 09:45:33 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 09:45:33 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 09:45:33   Server Version 8, Release 1, Level 12.100
+12/15/2021 09:45:33   Server date/time: 12/15/2021 09:45:33  Last access: 12/15/2021 05:45:33
+
+12/15/2021 09:45:33 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 09:45:33 --- SCHEDULEREC QUERY END
+12/15/2021 09:45:33 Next operation scheduled:
+12/15/2021 09:45:33 ------------------------------------------------------------
+12/15/2021 09:45:33 Schedule Name:         DAILY-2100
+12/15/2021 09:45:33 Action:                Incremental
+12/15/2021 09:45:33 Objects:
+12/15/2021 09:45:33 Options:               -quiet
+12/15/2021 09:45:33 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 09:45:33 ------------------------------------------------------------
+12/15/2021 09:45:33 Scheduler has been stopped.
+
+12/15/2021 13:45:33 Scheduler has been started by Dsmcad.
+12/15/2021 13:45:33 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 13:45:33 Querying server for next scheduled event.
+12/15/2021 13:45:33 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 13:45:34 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 13:45:34   Server Version 8, Release 1, Level 12.100
+12/15/2021 13:45:34   Server date/time: 12/15/2021 13:45:33  Last access: 12/15/2021 09:45:33
+
+12/15/2021 13:45:34 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 13:45:34 --- SCHEDULEREC QUERY END
+12/15/2021 13:45:34 Next operation scheduled:
+12/15/2021 13:45:34 ------------------------------------------------------------
+12/15/2021 13:45:34 Schedule Name:         DAILY-2100
+12/15/2021 13:45:34 Action:                Incremental
+12/15/2021 13:45:34 Objects:
+12/15/2021 13:45:34 Options:               -quiet
+12/15/2021 13:45:34 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 13:45:34 ------------------------------------------------------------
+12/15/2021 13:45:34 Scheduler has been stopped.
+
+12/15/2021 17:45:34 Scheduler has been started by Dsmcad.
+12/15/2021 17:45:34 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 17:45:34 Querying server for next scheduled event.
+12/15/2021 17:45:34 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 17:45:35 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 17:45:35   Server Version 8, Release 1, Level 12.100
+12/15/2021 17:45:35   Server date/time: 12/15/2021 17:45:35  Last access: 12/15/2021 13:45:34
+
+12/15/2021 17:45:35 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 17:45:35 --- SCHEDULEREC QUERY END
+12/15/2021 17:45:35 Next operation scheduled:
+12/15/2021 17:45:35 ------------------------------------------------------------
+12/15/2021 17:45:35 Schedule Name:         DAILY-2100
+12/15/2021 17:45:35 Action:                Incremental
+12/15/2021 17:45:35 Objects:
+12/15/2021 17:45:35 Options:               -quiet
+12/15/2021 17:45:35 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 17:45:35 ------------------------------------------------------------
+12/15/2021 17:45:35 Scheduler has been stopped.
+
+12/15/2021 21:14:35 Scheduler has been started by Dsmcad.
+12/15/2021 21:14:35 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 21:14:35 Querying server for next scheduled event.
+12/15/2021 21:14:35 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 21:14:36 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 21:14:36   Server Version 8, Release 1, Level 12.100
+12/15/2021 21:14:36   Server date/time: 12/15/2021 21:14:36  Last access: 12/15/2021 17:45:35
+
+12/15/2021 21:14:36 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 21:14:36 --- SCHEDULEREC QUERY END
+12/15/2021 21:14:36 Next operation scheduled:
+12/15/2021 21:14:36 ------------------------------------------------------------
+12/15/2021 21:14:36 Schedule Name:         DAILY-2100
+12/15/2021 21:14:36 Action:                Incremental
+12/15/2021 21:14:36 Objects:
+12/15/2021 21:14:36 Options:               -quiet
+12/15/2021 21:14:36 Server Window Start:   21:00:00 on 12/15/2021
+12/15/2021 21:14:36 ------------------------------------------------------------
+12/15/2021 21:14:36
+Executing scheduled command now.
+12/15/2021 21:14:36 --- SCHEDULEREC OBJECT BEGIN DAILY-2100 12/15/2021 21:00:00
+12/15/2021 21:14:36 Incremental backup of volume '/'
+12/15/2021 21:14:36 Incremental backup of volume '/opt'
+12/15/2021 21:14:36 Incremental backup of volume '/db/redis'
+12/15/2021 21:14:36 Incremental backup of volume '/local'
+12/15/2021 21:14:36 Incremental backup of volume '/home'
+12/15/2021 21:14:36 Incremental backup of volume '/var'
+12/15/2021 21:14:36 Incremental backup of volume '/boot'
+12/15/2021 21:14:36 Incremental backup of volume '/var/log'
+12/15/2021 21:14:42 Successful incremental backup of '/boot'
+
+12/15/2021 21:14:42 Successful incremental backup of '/opt'
+
+12/15/2021 21:14:43 Successful incremental backup of '/db/redis'
+
+12/15/2021 21:14:43 Successful incremental backup of '/local'
+
+12/15/2021 21:14:43 Successful incremental backup of '/var'
+
+12/15/2021 21:14:44 Successful incremental backup of '/'
+
+12/15/2021 21:14:44 Successful incremental backup of '/home'
+
+12/15/2021 21:14:48 Successful incremental backup of '/var/log'
+
+12/15/2021 21:14:48 --- SCHEDULEREC STATUS BEGIN
+12/15/2021 21:14:48 Total number of objects inspected:      100,607
+12/15/2021 21:14:48 Total number of objects backed up:          152
+12/15/2021 21:14:48 Total number of objects updated:              0
+12/15/2021 21:14:48 Total number of objects rebound:              0
+12/15/2021 21:14:48 Total number of objects deleted:              0
+12/15/2021 21:14:48 Total number of objects expired:              3
+12/15/2021 21:14:48 Total number of objects failed:               0
+12/15/2021 21:14:48 Total number of objects encrypted:            0
+12/15/2021 21:14:48 Total number of objects grew:                 0
+12/15/2021 21:14:48 Total number of retries:                     13
+12/15/2021 21:14:48 Total number of bytes inspected:           3.91 GB
+12/15/2021 21:14:48 Total number of bytes transferred:         1.03 GB
+12/15/2021 21:14:48 Data transfer time:                        9.40 sec
+12/15/2021 21:14:48 Network data transfer rate:          114,515.92 KB/sec
+12/15/2021 21:14:48 Aggregate data transfer rate:         93,136.34 KB/sec
+12/15/2021 21:14:48 Objects compressed by:                        0%
+12/15/2021 21:14:48 Total data reduction ratio:               73.74%
+12/15/2021 21:14:48 Elapsed processing time:               00:00:11
+12/15/2021 21:14:48 --- SCHEDULEREC STATUS END
+12/15/2021 21:14:48 --- SCHEDULEREC OBJECT END DAILY-2100 12/15/2021 21:00:00
+12/15/2021 21:14:48 Scheduled event 'DAILY-2100' completed successfully.
+12/15/2021 21:14:48 Sending results for scheduled event 'DAILY-2100'.
+12/15/2021 21:14:48 Results sent to server for scheduled event 'DAILY-2100'.
+
+12/15/2021 21:14:48 ANS1483I Schedule log pruning started.
+12/15/2021 21:14:48 ANS1484I Schedule log pruning finished successfully.
+12/15/2021 21:14:48 IBM Spectrum Protect Backup-Archive Client Version 8, Release 1, Level 12.0
+12/15/2021 21:14:48 Querying server for next scheduled event.
+12/15/2021 21:14:48 Node Name: VAR-P-RED02.OSL.BASEFARM.NET
+12/15/2021 21:14:48 Session established with server TSM31.OSL.BASEFARM.NET: AIX
+12/15/2021 21:14:48   Server Version 8, Release 1, Level 12.100
+12/15/2021 21:14:48   Server date/time: 12/15/2021 21:14:48  Last access: 12/15/2021 21:14:42
+
+12/15/2021 21:14:48 --- SCHEDULEREC QUERY BEGIN
+12/15/2021 21:14:48 --- SCHEDULEREC QUERY END
+12/15/2021 21:14:48 Next operation scheduled:
+12/15/2021 21:14:48 ------------------------------------------------------------
+12/15/2021 21:14:48 Schedule Name:         DAILY-2100
+12/15/2021 21:14:48 Action:                Incremental
+12/15/2021 21:14:48 Objects:
+12/15/2021 21:14:48 Options:               -quiet
+12/15/2021 21:14:48 Server Window Start:   21:00:00 on 12/16/2021
+12/15/2021 21:14:48 ------------------------------------------------------------
+12/15/2021 21:14:48 Scheduler has been stopped.
